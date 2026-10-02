@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5&height=220&section=header&text=SAI%20BONTHA&fontSize=72&fontColor=FFD700&desc=EMBEDDED%20SYSTEMS&descAlignY=75&descSize=20&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,31&height=220&section=header&text=SAI%20BONTHA&fontSize=72&fontColor=E8F4FF&desc=J.A.R.V.I.S.%20INTERFACE%20ONLINE&descAlignY=75&descSize=20&animation=fadeIn" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Sai+Bontha;I+build+embedded+systems;Firmware%2C+drivers+%26+protocols;J.A.R.V.I.S.+approved" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=J.A.R.V.I.S.+online;Hello%2C+I%27m+Sai+Bontha;All+systems+nominal;How+can+I+help%3F" alt="typing" />
 </p>
 
-<p align="center"><i>"I am Iron Man."</i> — well, the firmware version.</p>
+<p align="center"><i>"At your service."</i></p>
 
 ---
 
@@ -34,14 +34,14 @@ developer tools, all with tests. Everything here is mine, written from scratch.
 | [cmocka-unit-tests](https://github.com/saibontha18-hub/cmocka-unit-tests) | Ring buffer + static hash map in C99, each with a full CMocka unit-test suite (CMake/CTest) |
 | [modbus-rtu-slave](https://github.com/saibontha18-hub/modbus-rtu-slave) | Modbus RTU slave stack in C — registers, coils, exceptions, master-side builders, 30 tests |
 
-### 📊 Suit diagnostics
+### 📊 System diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saibontha18-hub&show_icons=true&title_color=E62429&text_color=FFFFFF&icon_color=00D4FF&bg_color=0D1117&border_color=E62429" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibontha18-hub&layout=compact&title_color=E62429&text_color=FFFFFF&bg_color=0D1117&border_color=E62429" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saibontha18-hub&show_icons=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&bg_color=0D1117&border_color=00D4FF" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibontha18-hub&layout=compact&title_color=00D4FF&text_color=FFFFFF&bg_color=0D1117&border_color=00D4FF" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saibontha18-hub&theme=dark&border=E62429&background=0D1117" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=saibontha18-hub&theme=dark&border=00D4FF&background=0D1117" alt="streak" />
 </p>
 
 ### 🐍 Contribution grid
@@ -58,4 +58,4 @@ developer tools, all with tests. Everything here is mine, written from scratch.
 - **Email:** saibontha18@gmail.com
 - 📍 Austin, Texas — open to relocation
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,31&height=120&section=footer" alt="footer" />

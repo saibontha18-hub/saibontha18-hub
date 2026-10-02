@@ -15,6 +15,18 @@
 
 ---
 
+### 👋 About me
+
+I'm an embedded software engineer in Austin, Texas. I work at the layer where
+software meets hardware — device drivers, board bring-up, real-time firmware.
+Day to day that's C/C++ on ARM and embedded Linux, plus Python tooling and
+test automation around it.
+
+This GitHub is where I build in the open: protocols, data structures, and
+developer tools, all with tests. Everything here is mine, written from scratch.
+
+---
+
 ### 🔧 What I do
 
 - **Embedded C/C++** — peripheral drivers (UART, SPI, I2C, CAN), multithreaded firmware with FreeRTOS and POSIX threads
@@ -26,11 +38,11 @@
 
 | Project | What it is |
 |---|---|
-| [linux-char-driver](./) | Minimal Linux character device driver (`/dev/hello_char`) with open/read/write/ioctl and a user-space smoke test |
-| [uart-data-logger](https://github.com/saibontha18-hub/uart-data-logger) | Python CLI that logs serial-port frames to timestamped CSV with auto-reconnect; pytest suite included |
-| [freertos-skeleton](https://github.com/saibontha18-hub/freertos-skeleton) | Cortex-M FreeRTOS task skeleton — blinky task plus queue-based UART command handler |
-| [cmocka-unit-tests](https://github.com/saibontha18-hub/cmocka-unit-tests) | C99 ring buffer with a full CMocka unit-test suite (CMake/CTest) |
-| [modbus-rtu-slave](https://github.com/saibontha18-hub/modbus-rtu-slave) | Modbus RTU slave stack in C — CRC engine, register commands, exceptions, mock UART, 16 tests |
+| [linux-char-driver](./) | Linux character device driver (`/dev/hello_char`) — multi-minor, ioctl interface, per-device stats, user-space test |
+| [uart-data-logger](https://github.com/saibontha18-hub/uart-data-logger) | Python CLI that logs serial-port frames to timestamped CSV — auto-reconnect, live stats, log rotation, checksum-validated frame mode |
+| [freertos-skeleton](https://github.com/saibontha18-hub/freertos-skeleton) | Cortex-M FreeRTOS patterns — sensor/logger tasks, software timer, heartbeat watchdog |
+| [cmocka-unit-tests](https://github.com/saibontha18-hub/cmocka-unit-tests) | Ring buffer + static hash map in C99, each with a full CMocka unit-test suite (CMake/CTest) |
+| [modbus-rtu-slave](https://github.com/saibontha18-hub/modbus-rtu-slave) | Modbus RTU slave stack in C — registers, coils, exceptions, master-side builders, 30 tests |
 
 ### 📊 GitHub stats
 

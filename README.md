@@ -30,6 +30,7 @@
 | [uart-data-logger](https://github.com/saibontha18-hub/uart-data-logger) | Python CLI that logs serial-port frames to timestamped CSV with auto-reconnect; pytest suite included |
 | [freertos-skeleton](https://github.com/saibontha18-hub/freertos-skeleton) | Cortex-M FreeRTOS task skeleton — blinky task plus queue-based UART command handler |
 | [cmocka-unit-tests](https://github.com/saibontha18-hub/cmocka-unit-tests) | C99 ring buffer with a full CMocka unit-test suite (CMake/CTest) |
+| [modbus-rtu-slave](https://github.com/saibontha18-hub/modbus-rtu-slave) | Modbus RTU slave stack in C — CRC engine, register commands, exceptions, mock UART, 16 tests |
 
 ### 📊 GitHub stats
 

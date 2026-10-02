@@ -35,7 +35,7 @@ that behave the same on day 1000 as they do on day 1.
 ### Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,git,github,bash,cmake&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,git,bash&theme=dark" alt="Technology icons" />
 </p>
 
 | Category | Skills |

@@ -1,17 +1,10 @@
-<h1 align="center">Hi, I'm Sai Bontha 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5&height=220&section=header&text=SAI%20BONTHA&fontSize=72&fontColor=FFD700&desc=EMBEDDED%20SYSTEMS&descAlignY=75&descSize=20&animation=fadeIn" alt="header" />
 
 <p align="center">
-  <b>Embedded Software Engineer</b> — I write C/C++ for the bare metal and for Linux, then prove it works with tests and a logic analyzer.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Sai+Bontha;I+build+embedded+systems;Firmware%2C+drivers+%26+protocols;J.A.R.V.I.S.+approved" alt="typing" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sai-bontha-199b41222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Embedded_Linux-FFC873?style=flat-square&logo=linux&logoColor=black" alt="Embedded Linux">
-  <img src="https://img.shields.io/badge/FreeRTOS-000000?style=flat-square" alt="FreeRTOS">
-</p>
+<p align="center"><i>"I am Iron Man."</i> — well, the firmware version.</p>
 
 ---
 
@@ -25,34 +18,44 @@ test automation around it.
 This GitHub is where I build in the open: protocols, data structures, and
 developer tools, all with tests. Everything here is mine, written from scratch.
 
----
+### ⚙️ Tech arsenal
 
-### 🔧 What I do
-
-- **Embedded C/C++** — peripheral drivers (UART, SPI, I2C, CAN), multithreaded firmware with FreeRTOS and POSIX threads
-- **Embedded Linux** — device drivers, device tree, U-Boot, Yocto/Buildroot, board bring-up
-- **Debug & test** — GDB, JTAG/SWD, oscilloscopes, logic analyzers; Python/Shell test automation; unit testing with CMocka
-- **Practices** — Git workflows, code reviews, CI/CD, root-cause analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,bash,cmake&theme=dark" alt="skills" />
+</p>
 
 ### 📁 Projects
 
 | Project | What it is |
 |---|---|
-| [linux-char-driver](./) | Linux character device driver (`/dev/hello_char`) — multi-minor, ioctl interface, per-device stats, user-space test |
+| [linux-char-driver](https://github.com/saibontha18-hub/linux-char-driver) | Linux character device driver (`/dev/hello_char`) — multi-minor, ioctl interface, per-device stats, user-space test |
 | [uart-data-logger](https://github.com/saibontha18-hub/uart-data-logger) | Python CLI that logs serial-port frames to timestamped CSV — auto-reconnect, live stats, log rotation, checksum-validated frame mode |
 | [freertos-skeleton](https://github.com/saibontha18-hub/freertos-skeleton) | Cortex-M FreeRTOS patterns — sensor/logger tasks, software timer, heartbeat watchdog |
 | [cmocka-unit-tests](https://github.com/saibontha18-hub/cmocka-unit-tests) | Ring buffer + static hash map in C99, each with a full CMocka unit-test suite (CMake/CTest) |
 | [modbus-rtu-slave](https://github.com/saibontha18-hub/modbus-rtu-slave) | Modbus RTU slave stack in C — registers, coils, exceptions, master-side builders, 30 tests |
 
-### 📊 GitHub stats
+### 📊 Suit diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saibontha18-hub&show_icons=true&theme=default" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibontha18-hub&layout=compact&theme=default" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=saibontha18-hub&show_icons=true&title_color=E62429&text_color=FFFFFF&icon_color=00D4FF&bg_color=0D1117&border_color=E62429" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibontha18-hub&layout=compact&title_color=E62429&text_color=FFFFFF&bg_color=0D1117&border_color=E62429" alt="Top languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saibontha18-hub&theme=dark&border=E62429&background=0D1117" alt="streak" />
+</p>
+
+### 🐍 Contribution grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saibontha18-hub/saibontha18-hub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saibontha18-hub/saibontha18-hub/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saibontha18-hub/saibontha18-hub/output/github-snake.svg" />
+</picture>
 
 ### 📫 Connect
 
 - **LinkedIn:** [sai-bontha-199b41222](https://www.linkedin.com/in/sai-bontha-199b41222)
 - **Email:** saibontha18@gmail.com
 - 📍 Austin, Texas — open to relocation
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5&height=120&section=footer" alt="footer" />

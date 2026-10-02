@@ -16,6 +16,16 @@
   <sub>📍 Austin, Texas — open to relocation</sub>
 </p>
 
+<!-- Contact buttons (top) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-bontha-199b41222">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saibontha18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <br>
 
 <!-- 3. About Me -->
@@ -83,20 +93,6 @@ that behave the same on day 1000 as they do on day 1.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saibontha18-hub&show_icons=true&theme=dark&title_color=58A6FF&bg_color=0D1117" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibontha18-hub&layout=compact&theme=dark&title_color=58A6FF&bg_color=0D1117" alt="Most used languages" />
-</p>
-
-<br>
-
-<!-- 7. Contact -->
-### Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sai-bontha-199b41222">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saibontha18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <br>

@@ -1,0 +1,49 @@
+name: Contrib-3D-Animated
+
+# Builds an animated isometric 3D contribution calendar from the user's real
+# GitHub activity (see .github/scripts/gen_3d_anim.py) and commits the SVG
+# to ./profile-3d-contrib/contrib-3d-animated.svg, which the profile README
+# embeds. Runs daily; also runs when the workflow or script changes, and can
+# be triggered manually from the Actions tab.
+
+on:
+  schedule:
+    # 08:00 UTC == ~03:00 CDT, daily
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/contrib-3d-anim.yml"
+      - ".github/scripts/gen_3d_anim.py"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-animated-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate animated 3D SVG
+        run: python3 .github/scripts/gen_3d_anim.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if ! git diff --cached --quiet; then
+            git commit -m "generate animated 3d contribution calendar"
+            git push
+          fi

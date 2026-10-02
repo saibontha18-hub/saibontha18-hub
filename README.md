@@ -97,12 +97,12 @@ that behave the same on day 1000 as they do on day 1.
 
 <br>
 
-<!-- 7. 3D Contribution Calendar
+<!-- 7. 3D Contribution Calendar (animated)
      Auto-generated from real GitHub activity by the
-     .github/workflows/profile-3d.yml workflow (runs daily).
-     Theme is set in .github/3d-settings.json. -->
+     .github/workflows/contrib-3d-anim.yml workflow (runs daily).
+     Colors and animation are set in .github/scripts/gen_3d_anim.py. -->
 ### Contribution Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-3d-blue.svg" alt="3D GitHub contribution calendar" />
+  <img src="./profile-3d-contrib/contrib-3d-animated.svg" alt="Animated 3D GitHub contribution calendar" />
 </p>

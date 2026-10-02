@@ -1,0 +1,45 @@
+name: GitHub-Profile-3D-Contrib
+
+# Generates a 3D contribution calendar (charcoal + GitHub blue, see
+# .github/3d-settings.json) from real GitHub activity and commits the SVG
+# to ./profile-3d-contrib/. The profile README embeds that SVG.
+# Runs daily; also runs when this workflow or the settings file changes,
+# and can be triggered manually from the Actions tab.
+
+on:
+  schedule:
+    # 08:00 UTC == ~03:00 CDT, daily
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-3d.yml"
+      - ".github/3d-settings.json"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-settings.json
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if ! git diff --cached --quiet; then
+            git commit -m "generate 3d contribution calendar"
+            git push
+          fi

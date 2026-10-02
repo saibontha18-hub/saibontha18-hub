@@ -97,18 +97,12 @@ that behave the same on day 1000 as they do on day 1.
 
 <br>
 
-<!-- 8. Snake animation (OPTIONAL, disabled by default)
-     The Platane/snk workflow already exists in this repository at
-     .github/workflows/snake.yml and publishes the SVG to the `output`
-     branch on every push. To enable the animation, delete the comment
-     markers around the block below.
-<!--
+<!-- 7. 3D Contribution Calendar
+     Auto-generated from real GitHub activity by the
+     .github/workflows/profile-3d.yml workflow (runs daily).
+     Theme is set in .github/3d-settings.json. -->
+### Contribution Activity
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saibontha18-hub/saibontha18-hub/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saibontha18-hub/saibontha18-hub/output/github-snake.svg" />
-    <img alt="Contribution grid snake animation" width="700" src="https://raw.githubusercontent.com/saibontha18-hub/saibontha18-hub/output/github-snake.svg" />
-  </picture>
+  <img src="./profile-3d-contrib/profile-3d-blue.svg" alt="3D GitHub contribution calendar" />
 </p>
--->
--->

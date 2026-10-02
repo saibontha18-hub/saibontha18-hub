@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-80 -103 574 445" role="img" aria-label="3D contribution calendar">
+<title>Animated 3D contribution calendar</title>
+<defs>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect x="-80" y="-103" width="574" height="445" rx="14" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+<ellipse cx="207.0" cy="302.0" rx="261.0" ry="15" fill="#000000" opacity="0.45" filter="url(#soft)"/>
+<text x="-54" y="-61" font-size="12" fill="#8B949E" font-family="Ubuntu,Helvetica,Arial,sans-serif">86 contributions in the last year</text>
+<text x="0" y="-50" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Sep</text>
+<text x="9" y="-45" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
+<text x="45" y="-25" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Nov</text>
+<text x="90" y="0" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Dec</text>
+<text x="126" y="20" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jan</text>
+<text x="162" y="40" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Feb</text>
+<text x="198" y="60" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Mar</text>
+<text x="243" y="85" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Apr</text>
+<text x="279" y="105" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">May</text>
+<text x="324" y="130" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jun</text>
+<text x="360" y="150" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jul</text>
+<text x="396" y="170" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Aug</text>
+<text x="441" y="195" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Sep</text>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.00s" repeatCount="indefinite"/>
+<polygon points="-9,-2 0,3 0,5 -9,0" fill="#0e1217"/>
+<polygon points="9,-2 0,3 0,5 9,0" fill="#0b0e11"/>
+<polygon points="0,-7 9,-2 0,3 -9,-2" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.04s" repeatCount="indefinite"/>
+<polygon points="-18,3 -9,8 -9,10 -18,5" fill="#0e1217"/>
+<polygon points="0,3 -9,8 -9,10 0,5" fill="#0b0e11"/>
+<polygon points="-9,-2 0,3 -9,8 -18,3" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.32s" repeatCount="indefinite"/>
+<polygon points="0,3 9,8 9,10 0,5" fill="#0e1217"/>
+<polygon points="18,3 9,8 9,10 18,5" fill="#0b0e11"/>
+<polygon points="9,-2 18,3 9,8 0,3" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.09s" repeatCount="indefinite"/>
+<polygon points="-27,8 -18,13 -18,15 -27,10" fill="#0e1217"/>
+<polygon points="-9,8 -18,13 -18,15 -9,10" fill="#0b0e11"/>
+<polygon points="-18,3 -9,8 -18,13 -27,8" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.36s" repeatCount="indefinite"/>
+<polygon points="-9,8 0,13 0,15 -9,10" fill="#0e1217"/>
+<polygon points="9,8 0,13 0,15 9,10" fill="#0b0e11"/>
+<polygon points="0,3 9,8 0,13 -9,8" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.63s" repeatCount="indefinite"/>
+<polygon points="9,8 18,13 18,15 9,10" fill="#0e1217"/>
+<polygon points="27,8 18,13 18,15 27,10" fill="#0b0e11"/>
+<polygon points="18,3 27,8 18,13 9,8" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.14s" repeatCount="indefinite"/>
+<polygon points="-36,13 -27,18 -27,20 -36,15" fill="#0e1217"/>
+<polygon points="-18,13 -27,18 -27,20 -18,15" fill="#0b0e11"/>
+<polygon points="-27,8 -18,13 -27,18 -36,13" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.40s" repeatCount="indefinite"/>
+<polygon points="-18,13 -9,18 -9,20 -18,15" fill="#0e1217"/>
+<polygon points="0,13 -9,18 -9,20 0,15" fill="#0b0e11"/>
+<polygon points="-9,8 0,13 -9,18 -18,13" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.67s" repeatCount="indefinite"/>
+<polygon points="0,13 9,18 9,20 0,15" fill="#0e1217"/>
+<polygon points="18,13 9,18 9,20 18,15" fill="#0b0e11"/>
+<polygon points="9,8 18,13 9,18 0,13" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.94s" repeatCount="indefinite"/>
+<polygon points="18,13 27,18 27,20 18,15" fill="#0e1217"/>
+<polygon points="36,13 27,18 27,20 36,15" fill="#0b0e11"/>
+<polygon points="27,8 36,13 27,18 18,13" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.18s" repeatCount="indefinite"/>
+<polygon points="-45,18 -36,23 -36,25 -45,20" fill="#0e1217"/>
+<polygon points="-27,18 -36,23 -36,25 -27,20" fill="#0b0e11"/>
+<polygon points="-36,13 -27,18 -36,23 -45,18" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.45s" repeatCount="indefinite"/>
+<polygon points="-27,18 -18,23 -18,25 -27,20" fill="#0e1217"/>
+<polygon points="-9,18 -18,23 -18,25 -9,20" fill="#0b0e11"/>
+<polygon points="-18,13 -9,18 -18,23 -27,18" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.72s" repeatCount="indefinite"/>
+<polygon points="-9,18 0,23 0,25 -9,20" fill="#0e1217"/>
+<polygon points="9,18 0,23 0,25 9,20" fill="#0b0e11"/>
+<polygon points="0,13 9,18 0,23 -9,18" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.99s" repeatCount="indefinite"/>
+<polygon points="9,18 18,23 18,25 9,20" fill="#0e1217"/>
+<polygon points="27,18 18,23 18,25 27,20" fill="#0b0e11"/>
+<polygon points="18,13 27,18 18,23 9,18" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.26s" repeatCount="indefinite"/>
+<polygon points="27,18 36,23 36,25 27,20" fill="#0e1217"/>
+<polygon points="45,18 36,23 36,25 45,20" fill="#0b0e11"/>
+<polygon points="36,13 45,18 36,23 27,18" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.22s" repeatCount="indefinite"/>
+<polygon points="-54,23 -45,28 -45,30 -54,25" fill="#0e1217"/>
+<polygon points="-36,23 -45,28 -45,30 -36,25" fill="#0b0e11"/>
+<polygon points="-45,18 -36,23 -45,28 -54,23" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.49s" repeatCount="indefinite"/>
+<polygon points="-36,23 -27,28 -27,30 -36,25" fill="#0e1217"/>
+<polygon points="-18,23 -27,28 -27,30 -18,25" fill="#0b0e11"/>
+<polygon points="-27,18 -18,23 -27,28 -36,23" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.77s" repeatCount="indefinite"/>
+<polygon points="-18,23 -9,28 -9,30 -18,25" fill="#0e1217"/>
+<polygon points="0,23 -9,28 -9,30 0,25" fill="#0b0e11"/>
+<polygon points="-9,18 0,23 -9,28 -18,23" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.03s" repeatCount="indefinite"/>
+<polygon points="0,23 9,28 9,30 0,25" fill="#0e1217"/>
+<polygon points="18,23 9,28 9,30 18,25" fill="#0b0e11"/>
+<polygon points="9,18 18,23 9,28 0,23" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.30s" repeatCount="indefinite"/>
+<polygon points="18,23 27,28 27,30 18,25" fill="#0e1217"/>
+<polygon points="36,23 27,28 27,30 36,25" fill="#0b0e11"/>
+<polygon points="27,18 36,23 27,28 18,23" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.57s" repeatCount="indefinite"/>
+<polygon points="36,23 45,28 45,30 36,25" fill="#0e1217"/>
+<polygon points="54,23 45,28 45,30 54,25" fill="#0b0e11"/>
+<polygon points="45,18 54,23 45,28 36,23" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.27s" repeatCount="indefinite"/>
+<polygon points="-63,28 -54,33 -54,35 -63,30" fill="#0e1217"/>
+<polygon points="-45,28 -54,33 -54,35 -45,30" fill="#0b0e11"/>
+<polygon points="-54,23 -45,28 -54,33 -63,28" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.54s" repeatCount="indefinite"/>
+<polygon points="-45,28 -36,33 -36,35 -45,30" fill="#0e1217"/>
+<polygon points="-27,28 -36,33 -36,35 -27,30" fill="#0b0e11"/>
+<polygon points="-36,23 -27,28 -36,33 -45,28" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.81s" repeatCount="indefinite"/>
+<polygon points="-27,28 -18,33 -18,35 -27,30" fill="#0e1217"/>
+<polygon points="-9,28 -18,33 -18,35 -9,30" fill="#0b0e11"/>
+<polygon points="-18,23 -9,28 -18,33 -27,28" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.08s" repeatCount="indefinite"/>
+<polygon points="-9,28 0,33 0,35 -9,30" fill="#0e1217"/>
+<polygon points="9,28 0,33 0,35 9,30" fill="#0b0e11"/>
+<polygon points="0,23 9,28 0,33 -9,28" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.35s" repeatCount="indefinite"/>
+<polygon points="9,28 18,33 18,35 9,30" fill="#0e1217"/>
+<polygon points="27,28 18,33 18,35 27,30" fill="#0b0e11"/>
+<polygon points="18,23 27,28 18,33 9,28" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.62s" repeatCount="indefinite"/>
+<polygon points="27,28 36,33 36,35 27,30" fill="#0e1217"/>
+<polygon points="45,28 36,33 36,35 45,30" fill="#0b0e11"/>
+<polygon points="36,23 45,28 36,33 27,28" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.89s" repeatCount="indefinite"/>
+<polygon points="45,28 54,33 54,35 45,30" fill="#0e1217"/>
+<polygon points="63,28 54,33 54,35 63,30" fill="#0b0e11"/>
+<polygon points="54,23 63,28 54,33 45,28" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.58s" repeatCount="indefinite"/>
+<polygon points="-54,33 -45,38 -45,40 -54,35" fill="#0e1217"/>
+<polygon points="-36,33 -45,38 -45,40 -36,35" fill="#0b0e11"/>
+<polygon points="-45,28 -36,33 -45,38 -54,33" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.85s" repeatCount="indefinite"/>
+<polygon points="-36,33 -27,38 -27,40 -36,35" fill="#0e1217"/>
+<polygon points="-18,33 -27,38 -27,40 -18,35" fill="#0b0e11"/>
+<polygon points="-27,28 -18,33 -27,38 -36,33" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.12s" repeatCount="indefinite"/>
+<polygon points="-18,33 -9,38 -9,40 -18,35" fill="#0e1217"/>
+<polygon points="0,33 -9,38 -9,40 0,35" fill="#0b0e11"/>
+<polygon points="-9,28 0,33 -9,38 -18,33" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.40s" repeatCount="indefinite"/>
+<polygon points="0,33 9,38 9,40 0,35" fill="#0e1217"/>
+<polygon points="18,33 9,38 9,40 18,35" fill="#0b0e11"/>
+<polygon points="9,28 18,33 9,38 0,33" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.67s" repeatCount="indefinite"/>
+<polygon points="18,33 27,38 27,40 18,35" fill="#0e1217"/>
+<polygon points="36,33 27,38 27,40 36,35" fill="#0b0e11"/>
+<polygon points="27,28 36,33 27,38 18,33" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.93s" repeatCount="indefinite"/>
+<polygon points="36,33 45,38 45,40 36,35" fill="#0e1217"/>
+<polygon points="54,33 45,38 45,40 54,35" fill="#0b0e11"/>
+<polygon points="45,28 54,33 45,38 36,33" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.21s" repeatCount="indefinite"/>
+<polygon points="54,33 63,38 63,40 54,35" fill="#0e1217"/>
+<polygon points="72,33 63,38 63,40 72,35" fill="#0b0e11"/>
+<polygon points="63,28 72,33 63,38 54,33" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.90s" repeatCount="indefinite"/>
+<polygon points="-45,38 -36,43 -36,45 -45,40" fill="#0e1217"/>
+<polygon points="-27,38 -36,43 -36,45 -27,40" fill="#0b0e11"/>
+<polygon points="-36,33 -27,38 -36,43 -45,38" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.17s" repeatCount="indefinite"/>
+<polygon points="-27,38 -18,43 -18,45 -27,40" fill="#0e1217"/>
+<polygon points="-9,38 -18,43 -18,45 -9,40" fill="#0b0e11"/>
+<polygon points="-18,33 -9,38 -18,43 -27,38" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.44s" repeatCount="indefinite"/>
+<polygon points="-9,38 0,43 0,45 -9,40" fill="#0e1217"/>
+<polygon points="9,38 0,43 0,45 9,40" fill="#0b0e11"/>
+<polygon points="0,33 9,38 0,43 -9,38" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.71s" repeatCount="indefinite"/>
+<polygon points="9,38 18,43 18,45 9,40" fill="#0e1217"/>
+<polygon points="27,38 18,43 18,45 27,40" fill="#0b0e11"/>
+<polygon points="18,33 27,38 18,43 9,38" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.98s" repeatCount="indefinite"/>
+<polygon points="27,38 36,43 36,45 27,40" fill="#0e1217"/>
+<polygon points="45,38 36,43 36,45 45,40" fill="#0b0e11"/>
+<polygon points="36,33 45,38 36,43 27,38" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.25s" repeatCount="indefinite"/>
+<polygon points="45,38 54,43 54,45 45,40" fill="#0e1217"/>
+<polygon points="63,38 54,43 54,45 63,40" fill="#0b0e11"/>
+<polygon points="54,33 63,38 54,43 45,38" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.52s" repeatCount="indefinite"/>
+<polygon points="63,38 72,43 72,45 63,40" fill="#0e1217"/>
+<polygon points="81,38 72,43 72,45 81,40" fill="#0b0e11"/>
+<polygon points="72,33 81,38 72,43 63,38" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.21s" repeatCount="indefinite"/>
+<polygon points="-36,43 -27,48 -27,50 -36,45" fill="#0e1217"/>
+<polygon points="-18,43 -27,48 -27,50 -18,45" fill="#0b0e11"/>
+<polygon points="-27,38 -18,43 -27,48 -36,43" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.48s" repeatCount="indefinite"/>
+<polygon points="-18,43 -9,48 -9,50 -18,45" fill="#0e1217"/>
+<polygon points="0,43 -9,48 -9,50 0,45" fill="#0b0e11"/>
+<polygon points="-9,38 0,43 -9,48 -18,43" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.75s" repeatCount="indefinite"/>
+<polygon points="0,43 9,48 9,50 0,45" fill="#0e1217"/>
+<polygon points="18,43 9,48 9,50 18,45" fill="#0b0e11"/>
+<polygon points="9,38 18,43 9,48 0,43" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.02s" repeatCount="indefinite"/>
+<polygon points="18,43 27,48 27,50 18,45" fill="#0e1217"/>
+<polygon points="36,43 27,48 27,50 36,45" fill="#0b0e11"/>
+<polygon points="27,38 36,43 27,48 18,43" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.29s" repeatCount="indefinite"/>
+<polygon points="36,43 45,48 45,50 36,45" fill="#0e1217"/>
+<polygon points="54,43 45,48 45,50 54,45" fill="#0b0e11"/>
+<polygon points="45,38 54,43 45,48 36,43" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.56s" repeatCount="indefinite"/>
+<polygon points="54,43 63,48 63,50 54,45" fill="#0e1217"/>
+<polygon points="72,43 63,48 63,50 72,45" fill="#0b0e11"/>
+<polygon points="63,38 72,43 63,48 54,43" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.83s" repeatCount="indefinite"/>
+<polygon points="72,43 81,48 81,50 72,45" fill="#0e1217"/>
+<polygon points="90,43 81,48 81,50 90,45" fill="#0b0e11"/>
+<polygon points="81,38 90,43 81,48 72,43" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.53s" repeatCount="indefinite"/>
+<polygon points="-27,48 -18,53 -18,55 -27,50" fill="#0e1217"/>
+<polygon points="-9,48 -18,53 -18,55 -9,50" fill="#0b0e11"/>
+<polygon points="-18,43 -9,48 -18,53 -27,48" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.80s" repeatCount="indefinite"/>
+<polygon points="-9,48 0,53 0,55 -9,50" fill="#0e1217"/>
+<polygon points="9,48 0,53 0,55 9,50" fill="#0b0e11"/>
+<polygon points="0,43 9,48 0,53 -9,48" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.07s" repeatCount="indefinite"/>
+<polygon points="9,48 18,53 18,55 9,50" fill="#0e1217"/>
+<polygon points="27,48 18,53 18,55 27,50" fill="#0b0e11"/>
+<polygon points="18,43 27,48 18,53 9,48" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.34s" repeatCount="indefinite"/>
+<polygon points="27,48 36,53 36,55 27,50" fill="#0e1217"/>
+<polygon points="45,48 36,53 36,55 45,50" fill="#0b0e11"/>
+<polygon points="36,43 45,48 36,53 27,48" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.61s" repeatCount="indefinite"/>
+<polygon points="45,48 54,53 54,55 45,50" fill="#0e1217"/>
+<polygon points="63,48 54,53 54,55 63,50" fill="#0b0e11"/>
+<polygon points="54,43 63,48 54,53 45,48" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.88s" repeatCount="indefinite"/>
+<polygon points="63,48 72,53 72,55 63,50" fill="#0e1217"/>
+<polygon points="81,48 72,53 72,55 81,50" fill="#0b0e11"/>
+<polygon points="72,43 81,48 72,53 63,48" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.15s" repeatCount="indefinite"/>
+<polygon points="81,48 90,53 90,55 81,50" fill="#0e1217"/>
+<polygon points="99,48 90,53 90,55 99,50" fill="#0b0e11"/>
+<polygon points="90,43 99,48 90,53 81,48" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="1.84s" repeatCount="indefinite"/>
+<polygon points="-18,53 -9,58 -9,60 -18,55" fill="#0e1217"/>
+<polygon points="0,53 -9,58 -9,60 0,55" fill="#0b0e11"/>
+<polygon points="-9,48 0,53 -9,58 -18,53" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.11s" repeatCount="indefinite"/>
+<polygon points="0,53 9,58 9,60 0,55" fill="#0e1217"/>
+<polygon points="18,53 9,58 9,60 18,55" fill="#0b0e11"/>
+<polygon points="9,48 18,53 9,58 0,53" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.38s" repeatCount="indefinite"/>
+<polygon points="18,53 27,58 27,60 18,55" fill="#0e1217"/>
+<polygon points="36,53 27,58 27,60 36,55" fill="#0b0e11"/>
+<polygon points="27,48 36,53 27,58 18,53" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.65s" repeatCount="indefinite"/>
+<polygon points="36,53 45,58 45,60 36,55" fill="#0e1217"/>
+<polygon points="54,53 45,58 45,60 54,55" fill="#0b0e11"/>
+<polygon points="45,48 54,53 45,58 36,53" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.92s" repeatCount="indefinite"/>
+<polygon points="54,53 63,58 63,60 54,55" fill="#0e1217"/>
+<polygon points="72,53 63,58 63,60 72,55" fill="#0b0e11"/>
+<polygon points="63,48 72,53 63,58 54,53" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.19s" repeatCount="indefinite"/>
+<polygon points="72,53 81,58 81,60 72,55" fill="#0e1217"/>
+<polygon points="90,53 81,58 81,60 90,55" fill="#0b0e11"/>
+<polygon points="81,48 90,53 81,58 72,53" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.46s" repeatCount="indefinite"/>
+<polygon points="90,53 99,58 99,60 90,55" fill="#0e1217"/>
+<polygon points="108,53 99,58 99,60 108,55" fill="#0b0e11"/>
+<polygon points="99,48 108,53 99,58 90,53" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.16s" repeatCount="indefinite"/>
+<polygon points="-9,58 0,63 0,65 -9,60" fill="#0e1217"/>
+<polygon points="9,58 0,63 0,65 9,60" fill="#0b0e11"/>
+<polygon points="0,53 9,58 0,63 -9,58" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.43s" repeatCount="indefinite"/>
+<polygon points="9,58 18,63 18,65 9,60" fill="#0e1217"/>
+<polygon points="27,58 18,63 18,65 27,60" fill="#0b0e11"/>
+<polygon points="18,53 27,58 18,63 9,58" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.70s" repeatCount="indefinite"/>
+<polygon points="27,58 36,63 36,65 27,60" fill="#0e1217"/>
+<polygon points="45,58 36,63 36,65 45,60" fill="#0b0e11"/>
+<polygon points="36,53 45,58 36,63 27,58" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.97s" repeatCount="indefinite"/>
+<polygon points="45,58 54,63 54,65 45,60" fill="#0e1217"/>
+<polygon points="63,58 54,63 54,65 63,60" fill="#0b0e11"/>
+<polygon points="54,53 63,58 54,63 45,58" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.24s" repeatCount="indefinite"/>
+<polygon points="63,58 72,63 72,65 63,60" fill="#0e1217"/>
+<polygon points="81,58 72,63 72,65 81,60" fill="#0b0e11"/>
+<polygon points="72,53 81,58 72,63 63,58" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.51s" repeatCount="indefinite"/>
+<polygon points="81,58 90,63 90,65 81,60" fill="#0e1217"/>
+<polygon points="99,58 90,63 90,65 99,60" fill="#0b0e11"/>
+<polygon points="90,53 99,58 90,63 81,58" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.78s" repeatCount="indefinite"/>
+<polygon points="99,58 108,63 108,65 99,60" fill="#0e1217"/>
+<polygon points="117,58 108,63 108,65 117,60" fill="#0b0e11"/>
+<polygon points="108,53 117,58 108,63 99,58" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.48s" repeatCount="indefinite"/>
+<polygon points="0,63 9,68 9,70 0,65" fill="#0e1217"/>
+<polygon points="18,63 9,68 9,70 18,65" fill="#0b0e11"/>
+<polygon points="9,58 18,63 9,68 0,63" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.75s" repeatCount="indefinite"/>
+<polygon points="18,63 27,68 27,70 18,65" fill="#0e1217"/>
+<polygon points="36,63 27,68 27,70 36,65" fill="#0b0e11"/>
+<polygon points="27,58 36,63 27,68 18,63" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.01s" repeatCount="indefinite"/>
+<polygon points="36,63 45,68 45,70 36,65" fill="#0e1217"/>
+<polygon points="54,63 45,68 45,70 54,65" fill="#0b0e11"/>
+<polygon points="45,58 54,63 45,68 36,63" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.28s" repeatCount="indefinite"/>
+<polygon points="54,63 63,68 63,70 54,65" fill="#0e1217"/>
+<polygon points="72,63 63,68 63,70 72,65" fill="#0b0e11"/>
+<polygon points="63,58 72,63 63,68 54,63" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.55s" repeatCount="indefinite"/>
+<polygon points="72,63 81,68 81,70 72,65" fill="#0e1217"/>
+<polygon points="90,63 81,68 81,70 90,65" fill="#0b0e11"/>
+<polygon points="81,58 90,63 81,68 72,63" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.82s" repeatCount="indefinite"/>
+<polygon points="90,63 99,68 99,70 90,65" fill="#0e1217"/>
+<polygon points="108,63 99,68 99,70 108,65" fill="#0b0e11"/>
+<polygon points="99,58 108,63 99,68 90,63" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.09s" repeatCount="indefinite"/>
+<polygon points="108,63 117,68 117,70 108,65" fill="#0e1217"/>
+<polygon points="126,63 117,68 117,70 126,65" fill="#0b0e11"/>
+<polygon points="117,58 126,63 117,68 108,63" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="2.79s" repeatCount="indefinite"/>
+<polygon points="9,68 18,73 18,75 9,70" fill="#0e1217"/>
+<polygon points="27,68 18,73 18,75 27,70" fill="#0b0e11"/>
+<polygon points="18,63 27,68 18,73 9,68" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.06s" repeatCount="indefinite"/>
+<polygon points="27,68 36,73 36,75 27,70" fill="#0e1217"/>
+<polygon points="45,68 36,73 36,75 45,70" fill="#0b0e11"/>
+<polygon points="36,63 45,68 36,73 27,68" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.33s" repeatCount="indefinite"/>
+<polygon points="45,68 54,73 54,75 45,70" fill="#0e1217"/>
+<polygon points="63,68 54,73 54,75 63,70" fill="#0b0e11"/>
+<polygon points="54,63 63,68 54,73 45,68" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.60s" repeatCount="indefinite"/>
+<polygon points="63,68 72,73 72,75 63,70" fill="#0e1217"/>
+<polygon points="81,68 72,73 72,75 81,70" fill="#0b0e11"/>
+<polygon points="72,63 81,68 72,73 63,68" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.87s" repeatCount="indefinite"/>
+<polygon points="81,68 90,73 90,75 81,70" fill="#0e1217"/>
+<polygon points="99,68 90,73 90,75 99,70" fill="#0b0e11"/>
+<polygon points="90,63 99,68 90,73 81,68" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.14s" repeatCount="indefinite"/>
+<polygon points="99,68 108,73 108,75 99,70" fill="#0e1217"/>
+<polygon points="117,68 108,73 108,75 117,70" fill="#0b0e11"/>
+<polygon points="108,63 117,68 108,73 99,68" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.41s" repeatCount="indefinite"/>
+<polygon points="117,68 126,73 126,75 117,70" fill="#0e1217"/>
+<polygon points="135,68 126,73 126,75 135,70" fill="#0b0e11"/>
+<polygon points="126,63 135,68 126,73 117,68" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.10s" repeatCount="indefinite"/>
+<polygon points="18,73 27,78 27,80 18,75" fill="#0e1217"/>
+<polygon points="36,73 27,78 27,80 36,75" fill="#0b0e11"/>
+<polygon points="27,68 36,73 27,78 18,73" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.38s" repeatCount="indefinite"/>
+<polygon points="36,73 45,78 45,80 36,75" fill="#0e1217"/>
+<polygon points="54,73 45,78 45,80 54,75" fill="#0b0e11"/>
+<polygon points="45,68 54,73 45,78 36,73" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.65s" repeatCount="indefinite"/>
+<polygon points="54,73 63,78 63,80 54,75" fill="#0e1217"/>
+<polygon points="72,73 63,78 63,80 72,75" fill="#0b0e11"/>
+<polygon points="63,68 72,73 63,78 54,73" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.92s" repeatCount="indefinite"/>
+<polygon points="72,73 81,78 81,80 72,75" fill="#0e1217"/>
+<polygon points="90,73 81,78 81,80 90,75" fill="#0b0e11"/>
+<polygon points="81,68 90,73 81,78 72,73" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.18s" repeatCount="indefinite"/>
+<polygon points="90,73 99,78 99,80 90,75" fill="#0e1217"/>
+<polygon points="108,73 99,78 99,80 108,75" fill="#0b0e11"/>
+<polygon points="99,68 108,73 99,78 90,73" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.46s" repeatCount="indefinite"/>
+<polygon points="108,73 117,78 117,80 108,75" fill="#0e1217"/>
+<polygon points="126,73 117,78 117,80 126,75" fill="#0b0e11"/>
+<polygon points="117,68 126,73 117,78 108,73" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.72s" repeatCount="indefinite"/>
+<polygon points="126,73 135,78 135,80 126,75" fill="#0e1217"/>
+<polygon points="144,73 135,78 135,80 144,75" fill="#0b0e11"/>
+<polygon points="135,68 144,73 135,78 126,73" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.42s" repeatCount="indefinite"/>
+<polygon points="27,78 36,83 36,85 27,80" fill="#0e1217"/>
+<polygon points="45,78 36,83 36,85 45,80" fill="#0b0e11"/>
+<polygon points="36,73 45,78 36,83 27,78" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.69s" repeatCount="indefinite"/>
+<polygon points="45,78 54,83 54,85 45,80" fill="#0e1217"/>
+<polygon points="63,78 54,83 54,85 63,80" fill="#0b0e11"/>
+<polygon points="54,73 63,78 54,83 45,78" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.96s" repeatCount="indefinite"/>
+<polygon points="63,78 72,83 72,85 63,80" fill="#0e1217"/>
+<polygon points="81,78 72,83 72,85 81,80" fill="#0b0e11"/>
+<polygon points="72,73 81,78 72,83 63,78" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.23s" repeatCount="indefinite"/>
+<polygon points="81,78 90,83 90,85 81,80" fill="#0e1217"/>
+<polygon points="99,78 90,83 90,85 99,80" fill="#0b0e11"/>
+<polygon points="90,73 99,78 90,83 81,78" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.50s" repeatCount="indefinite"/>
+<polygon points="99,78 108,83 108,85 99,80" fill="#0e1217"/>
+<polygon points="117,78 108,83 108,85 117,80" fill="#0b0e11"/>
+<polygon points="108,73 117,78 108,83 99,78" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.77s" repeatCount="indefinite"/>
+<polygon points="117,78 126,83 126,85 117,80" fill="#0e1217"/>
+<polygon points="135,78 126,83 126,85 135,80" fill="#0b0e11"/>
+<polygon points="126,73 135,78 126,83 117,78" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.04s" repeatCount="indefinite"/>
+<polygon points="135,78 144,83 144,85 135,80" fill="#0e1217"/>
+<polygon points="153,78 144,83 144,85 153,80" fill="#0b0e11"/>
+<polygon points="144,73 153,78 144,83 135,78" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="3.73s" repeatCount="indefinite"/>
+<polygon points="36,83 45,88 45,90 36,85" fill="#0e1217"/>
+<polygon points="54,83 45,88 45,90 54,85" fill="#0b0e11"/>
+<polygon points="45,78 54,83 45,88 36,83" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.00s" repeatCount="indefinite"/>
+<polygon points="54,83 63,88 63,90 54,85" fill="#0e1217"/>
+<polygon points="72,83 63,88 63,90 72,85" fill="#0b0e11"/>
+<polygon points="63,78 72,83 63,88 54,83" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.27s" repeatCount="indefinite"/>
+<polygon points="72,83 81,88 81,90 72,85" fill="#0e1217"/>
+<polygon points="90,83 81,88 81,90 90,85" fill="#0b0e11"/>
+<polygon points="81,78 90,83 81,88 72,83" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.54s" repeatCount="indefinite"/>
+<polygon points="90,83 99,88 99,90 90,85" fill="#0e1217"/>
+<polygon points="108,83 99,88 99,90 108,85" fill="#0b0e11"/>
+<polygon points="99,78 108,83 99,88 90,83" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.81s" repeatCount="indefinite"/>
+<polygon points="108,83 117,88 117,90 108,85" fill="#0e1217"/>
+<polygon points="126,83 117,88 117,90 126,85" fill="#0b0e11"/>
+<polygon points="117,78 126,83 117,88 108,83" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.08s" repeatCount="indefinite"/>
+<polygon points="126,83 135,88 135,90 126,85" fill="#0e1217"/>
+<polygon points="144,83 135,88 135,90 144,85" fill="#0b0e11"/>
+<polygon points="135,78 144,83 135,88 126,83" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.35s" repeatCount="indefinite"/>
+<polygon points="144,83 153,88 153,90 144,85" fill="#0e1217"/>
+<polygon points="162,83 153,88 153,90 162,85" fill="#0b0e11"/>
+<polygon points="153,78 162,83 153,88 144,83" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.05s" repeatCount="indefinite"/>
+<polygon points="45,88 54,93 54,95 45,90" fill="#0e1217"/>
+<polygon points="63,88 54,93 54,95 63,90" fill="#0b0e11"/>
+<polygon points="54,83 63,88 54,93 45,88" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.32s" repeatCount="indefinite"/>
+<polygon points="63,88 72,93 72,95 63,90" fill="#0e1217"/>
+<polygon points="81,88 72,93 72,95 81,90" fill="#0b0e11"/>
+<polygon points="72,83 81,88 72,93 63,88" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.59s" repeatCount="indefinite"/>
+<polygon points="81,88 90,93 90,95 81,90" fill="#0e1217"/>
+<polygon points="99,88 90,93 90,95 99,90" fill="#0b0e11"/>
+<polygon points="90,83 99,88 90,93 81,88" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.86s" repeatCount="indefinite"/>
+<polygon points="99,88 108,93 108,95 99,90" fill="#0e1217"/>
+<polygon points="117,88 108,93 108,95 117,90" fill="#0b0e11"/>
+<polygon points="108,83 117,88 108,93 99,88" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.13s" repeatCount="indefinite"/>
+<polygon points="117,88 126,93 126,95 117,90" fill="#0e1217"/>
+<polygon points="135,88 126,93 126,95 135,90" fill="#0b0e11"/>
+<polygon points="126,83 135,88 126,93 117,88" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.40s" repeatCount="indefinite"/>
+<polygon points="135,88 144,93 144,95 135,90" fill="#0e1217"/>
+<polygon points="153,88 144,93 144,95 153,90" fill="#0b0e11"/>
+<polygon points="144,83 153,88 144,93 135,88" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.67s" repeatCount="indefinite"/>
+<polygon points="153,88 162,93 162,95 153,90" fill="#0e1217"/>
+<polygon points="171,88 162,93 162,95 171,90" fill="#0b0e11"/>
+<polygon points="162,83 171,88 162,93 153,88" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.37s" repeatCount="indefinite"/>
+<polygon points="54,93 63,98 63,100 54,95" fill="#0e1217"/>
+<polygon points="72,93 63,98 63,100 72,95" fill="#0b0e11"/>
+<polygon points="63,88 72,93 63,98 54,93" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.63s" repeatCount="indefinite"/>
+<polygon points="72,93 81,98 81,100 72,95" fill="#0e1217"/>
+<polygon points="90,93 81,98 81,100 90,95" fill="#0b0e11"/>
+<polygon points="81,88 90,93 81,98 72,93" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.91s" repeatCount="indefinite"/>
+<polygon points="90,93 99,98 99,100 90,95" fill="#0e1217"/>
+<polygon points="108,93 99,98 99,100 108,95" fill="#0b0e11"/>
+<polygon points="99,88 108,93 99,98 90,93" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.17s" repeatCount="indefinite"/>
+<polygon points="108,93 117,98 117,100 108,95" fill="#0e1217"/>
+<polygon points="126,93 117,98 117,100 126,95" fill="#0b0e11"/>
+<polygon points="117,88 126,93 117,98 108,93" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.44s" repeatCount="indefinite"/>
+<polygon points="126,93 135,98 135,100 126,95" fill="#0e1217"/>
+<polygon points="144,93 135,98 135,100 144,95" fill="#0b0e11"/>
+<polygon points="135,88 144,93 135,98 126,93" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.71s" repeatCount="indefinite"/>
+<polygon points="144,93 153,98 153,100 144,95" fill="#0e1217"/>
+<polygon points="162,93 153,98 153,100 162,95" fill="#0b0e11"/>
+<polygon points="153,88 162,93 153,98 144,93" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.98s" repeatCount="indefinite"/>
+<polygon points="162,93 171,98 171,100 162,95" fill="#0e1217"/>
+<polygon points="180,93 171,98 171,100 180,95" fill="#0b0e11"/>
+<polygon points="171,88 180,93 171,98 162,93" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.68s" repeatCount="indefinite"/>
+<polygon points="63,98 72,103 72,105 63,100" fill="#0e1217"/>
+<polygon points="81,98 72,103 72,105 81,100" fill="#0b0e11"/>
+<polygon points="72,93 81,98 72,103 63,98" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="4.95s" repeatCount="indefinite"/>
+<polygon points="81,98 90,103 90,105 81,100" fill="#0e1217"/>
+<polygon points="99,98 90,103 90,105 99,100" fill="#0b0e11"/>
+<polygon points="90,93 99,98 90,103 81,98" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.22s" repeatCount="indefinite"/>
+<polygon points="99,98 108,103 108,105 99,100" fill="#0e1217"/>
+<polygon points="117,98 108,103 108,105 117,100" fill="#0b0e11"/>
+<polygon points="108,93 117,98 108,103 99,98" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.49s" repeatCount="indefinite"/>
+<polygon points="117,98 126,103 126,105 117,100" fill="#0e1217"/>
+<polygon points="135,98 126,103 126,105 135,100" fill="#0b0e11"/>
+<polygon points="126,93 135,98 126,103 117,98" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.76s" repeatCount="indefinite"/>
+<polygon points="135,98 144,103 144,105 135,100" fill="#0e1217"/>
+<polygon points="153,98 144,103 144,105 153,100" fill="#0b0e11"/>
+<polygon points="144,93 153,98 144,103 135,98" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.03s" repeatCount="indefinite"/>
+<polygon points="153,98 162,103 162,105 153,100" fill="#0e1217"/>
+<polygon points="171,98 162,103 162,105 171,100" fill="#0b0e11"/>
+<polygon points="162,93 171,98 162,103 153,98" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.30s" repeatCount="indefinite"/>
+<polygon points="171,98 180,103 180,105 171,100" fill="#0e1217"/>
+<polygon points="189,98 180,103 180,105 189,100" fill="#0b0e11"/>
+<polygon points="180,93 189,98 180,103 171,98" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.00s" repeatCount="indefinite"/>
+<polygon points="72,103 81,108 81,110 72,105" fill="#0e1217"/>
+<polygon points="90,103 81,108 81,110 90,105" fill="#0b0e11"/>
+<polygon points="81,98 90,103 81,108 72,103" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.26s" repeatCount="indefinite"/>
+<polygon points="90,103 99,108 99,110 90,105" fill="#0e1217"/>
+<polygon points="108,103 99,108 99,110 108,105" fill="#0b0e11"/>
+<polygon points="99,98 108,103 99,108 90,103" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.54s" repeatCount="indefinite"/>
+<polygon points="108,103 117,108 117,110 108,105" fill="#0e1217"/>
+<polygon points="126,103 117,108 117,110 126,105" fill="#0b0e11"/>
+<polygon points="117,98 126,103 117,108 108,103" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.80s" repeatCount="indefinite"/>
+<polygon points="126,103 135,108 135,110 126,105" fill="#0e1217"/>
+<polygon points="144,103 135,108 135,110 144,105" fill="#0b0e11"/>
+<polygon points="135,98 144,103 135,108 126,103" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.08s" repeatCount="indefinite"/>
+<polygon points="144,103 153,108 153,110 144,105" fill="#0e1217"/>
+<polygon points="162,103 153,108 153,110 162,105" fill="#0b0e11"/>
+<polygon points="153,98 162,103 153,108 144,103" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.34s" repeatCount="indefinite"/>
+<polygon points="162,103 171,108 171,110 162,105" fill="#0e1217"/>
+<polygon points="180,103 171,108 171,110 180,105" fill="#0b0e11"/>
+<polygon points="171,98 180,103 171,108 162,103" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.61s" repeatCount="indefinite"/>
+<polygon points="180,103 189,108 189,110 180,105" fill="#0e1217"/>
+<polygon points="198,103 189,108 189,110 198,105" fill="#0b0e11"/>
+<polygon points="189,98 198,103 189,108 180,103" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.31s" repeatCount="indefinite"/>
+<polygon points="81,108 90,113 90,115 81,110" fill="#0e1217"/>
+<polygon points="99,108 90,113 90,115 99,110" fill="#0b0e11"/>
+<polygon points="90,103 99,108 90,113 81,108" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.58s" repeatCount="indefinite"/>
+<polygon points="99,108 108,113 108,115 99,110" fill="#0e1217"/>
+<polygon points="117,108 108,113 108,115 117,110" fill="#0b0e11"/>
+<polygon points="108,103 117,108 108,113 99,108" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.85s" repeatCount="indefinite"/>
+<polygon points="117,108 126,113 126,115 117,110" fill="#0e1217"/>
+<polygon points="135,108 126,113 126,115 135,110" fill="#0b0e11"/>
+<polygon points="126,103 135,108 126,113 117,108" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.12s" repeatCount="indefinite"/>
+<polygon points="135,108 144,113 144,115 135,110" fill="#0e1217"/>
+<polygon points="153,108 144,113 144,115 153,110" fill="#0b0e11"/>
+<polygon points="144,103 153,108 144,113 135,108" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.39s" repeatCount="indefinite"/>
+<polygon points="153,108 162,113 162,115 153,110" fill="#0e1217"/>
+<polygon points="171,108 162,113 162,115 171,110" fill="#0b0e11"/>
+<polygon points="162,103 171,108 162,113 153,108" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.66s" repeatCount="indefinite"/>
+<polygon points="171,108 180,113 180,115 171,110" fill="#0e1217"/>
+<polygon points="189,108 180,113 180,115 189,110" fill="#0b0e11"/>
+<polygon points="180,103 189,108 180,113 171,108" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.93s" repeatCount="indefinite"/>
+<polygon points="189,108 198,113 198,115 189,110" fill="#0e1217"/>
+<polygon points="207,108 198,113 198,115 207,110" fill="#0b0e11"/>
+<polygon points="198,103 207,108 198,113 189,108" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.62s" repeatCount="indefinite"/>
+<polygon points="90,113 99,118 99,120 90,115" fill="#0e1217"/>
+<polygon points="108,113 99,118 99,120 108,115" fill="#0b0e11"/>
+<polygon points="99,108 108,113 99,118 90,113" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.89s" repeatCount="indefinite"/>
+<polygon points="108,113 117,118 117,120 108,115" fill="#0e1217"/>
+<polygon points="126,113 117,118 117,120 126,115" fill="#0b0e11"/>
+<polygon points="117,108 126,113 117,118 108,113" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.17s" repeatCount="indefinite"/>
+<polygon points="126,113 135,118 135,120 126,115" fill="#0e1217"/>
+<polygon points="144,113 135,118 135,120 144,115" fill="#0b0e11"/>
+<polygon points="135,108 144,113 135,118 126,113" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.43s" repeatCount="indefinite"/>
+<polygon points="144,113 153,118 153,120 144,115" fill="#0e1217"/>
+<polygon points="162,113 153,118 153,120 162,115" fill="#0b0e11"/>
+<polygon points="153,108 162,113 153,118 144,113" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.71s" repeatCount="indefinite"/>
+<polygon points="162,113 171,118 171,120 162,115" fill="#0e1217"/>
+<polygon points="180,113 171,118 171,120 180,115" fill="#0b0e11"/>
+<polygon points="171,108 180,113 171,118 162,113" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.97s" repeatCount="indefinite"/>
+<polygon points="180,113 189,118 189,120 180,115" fill="#0e1217"/>
+<polygon points="198,113 189,118 189,120 198,115" fill="#0b0e11"/>
+<polygon points="189,108 198,113 189,118 180,113" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.25s" repeatCount="indefinite"/>
+<polygon points="198,113 207,118 207,120 198,115" fill="#0e1217"/>
+<polygon points="216,113 207,118 207,120 216,115" fill="#0b0e11"/>
+<polygon points="207,108 216,113 207,118 198,113" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="5.94s" repeatCount="indefinite"/>
+<polygon points="99,118 108,123 108,125 99,120" fill="#0e1217"/>
+<polygon points="117,118 108,123 108,125 117,120" fill="#0b0e11"/>
+<polygon points="108,113 117,118 108,123 99,118" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.21s" repeatCount="indefinite"/>
+<polygon points="117,118 126,123 126,125 117,120" fill="#0e1217"/>
+<polygon points="135,118 126,123 126,125 135,120" fill="#0b0e11"/>
+<polygon points="126,113 135,118 126,123 117,118" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.48s" repeatCount="indefinite"/>
+<polygon points="135,118 144,123 144,125 135,120" fill="#0e1217"/>
+<polygon points="153,118 144,123 144,125 153,120" fill="#0b0e11"/>
+<polygon points="144,113 153,118 144,123 135,118" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.75s" repeatCount="indefinite"/>
+<polygon points="153,118 162,123 162,125 153,120" fill="#0e1217"/>
+<polygon points="171,118 162,123 162,125 171,120" fill="#0b0e11"/>
+<polygon points="162,113 171,118 162,123 153,118" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.02s" repeatCount="indefinite"/>
+<polygon points="171,118 180,123 180,125 171,120" fill="#0e1217"/>
+<polygon points="189,118 180,123 180,125 189,120" fill="#0b0e11"/>
+<polygon points="180,113 189,118 180,123 171,118" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.29s" repeatCount="indefinite"/>
+<polygon points="189,118 198,123 198,125 189,120" fill="#0e1217"/>
+<polygon points="207,118 198,123 198,125 207,120" fill="#0b0e11"/>
+<polygon points="198,113 207,118 198,123 189,118" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.56s" repeatCount="indefinite"/>
+<polygon points="207,118 216,123 216,125 207,120" fill="#0e1217"/>
+<polygon points="225,118 216,123 216,125 225,120" fill="#0b0e11"/>
+<polygon points="216,113 225,118 216,123 207,118" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.25s" repeatCount="indefinite"/>
+<polygon points="108,123 117,128 117,130 108,125" fill="#0e1217"/>
+<polygon points="126,123 117,128 117,130 126,125" fill="#0b0e11"/>
+<polygon points="117,118 126,123 117,128 108,123" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.52s" repeatCount="indefinite"/>
+<polygon points="126,123 135,128 135,130 126,125" fill="#0e1217"/>
+<polygon points="144,123 135,128 135,130 144,125" fill="#0b0e11"/>
+<polygon points="135,118 144,123 135,128 126,123" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.79s" repeatCount="indefinite"/>
+<polygon points="144,123 153,128 153,130 144,125" fill="#0e1217"/>
+<polygon points="162,123 153,128 153,130 162,125" fill="#0b0e11"/>
+<polygon points="153,118 162,123 153,128 144,123" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.06s" repeatCount="indefinite"/>
+<polygon points="162,123 171,128 171,130 162,125" fill="#0e1217"/>
+<polygon points="180,123 171,128 171,130 180,125" fill="#0b0e11"/>
+<polygon points="171,118 180,123 171,128 162,123" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.33s" repeatCount="indefinite"/>
+<polygon points="180,123 189,128 189,130 180,125" fill="#0e1217"/>
+<polygon points="198,123 189,128 189,130 198,125" fill="#0b0e11"/>
+<polygon points="189,118 198,123 189,128 180,123" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.60s" repeatCount="indefinite"/>
+<polygon points="198,123 207,128 207,130 198,125" fill="#0e1217"/>
+<polygon points="216,123 207,128 207,130 216,125" fill="#0b0e11"/>
+<polygon points="207,118 216,123 207,128 198,123" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.88s" repeatCount="indefinite"/>
+<polygon points="216,123 225,128 225,130 216,125" fill="#0e1217"/>
+<polygon points="234,123 225,128 225,130 234,125" fill="#0b0e11"/>
+<polygon points="225,118 234,123 225,128 216,123" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.57s" repeatCount="indefinite"/>
+<polygon points="117,128 126,133 126,135 117,130" fill="#0e1217"/>
+<polygon points="135,128 126,133 126,135 135,130" fill="#0b0e11"/>
+<polygon points="126,123 135,128 126,133 117,128" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.84s" repeatCount="indefinite"/>
+<polygon points="135,128 144,133 144,135 135,130" fill="#0e1217"/>
+<polygon points="153,128 144,133 144,135 153,130" fill="#0b0e11"/>
+<polygon points="144,123 153,128 144,133 135,128" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.11s" repeatCount="indefinite"/>
+<polygon points="153,128 162,133 162,135 153,130" fill="#0e1217"/>
+<polygon points="171,128 162,133 162,135 171,130" fill="#0b0e11"/>
+<polygon points="162,123 171,128 162,133 153,128" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.38s" repeatCount="indefinite"/>
+<polygon points="171,128 180,133 180,135 171,130" fill="#0e1217"/>
+<polygon points="189,128 180,133 180,135 189,130" fill="#0b0e11"/>
+<polygon points="180,123 189,128 180,133 171,128" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.65s" repeatCount="indefinite"/>
+<polygon points="189,128 198,133 198,135 189,130" fill="#0e1217"/>
+<polygon points="207,128 198,133 198,135 207,130" fill="#0b0e11"/>
+<polygon points="198,123 207,128 198,133 189,128" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.92s" repeatCount="indefinite"/>
+<polygon points="207,128 216,133 216,135 207,130" fill="#0e1217"/>
+<polygon points="225,128 216,133 216,135 225,130" fill="#0b0e11"/>
+<polygon points="216,123 225,128 216,133 207,128" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.19s" repeatCount="indefinite"/>
+<polygon points="225,128 234,133 234,135 225,130" fill="#0e1217"/>
+<polygon points="243,128 234,133 234,135 243,130" fill="#0b0e11"/>
+<polygon points="234,123 243,128 234,133 225,128" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="6.88s" repeatCount="indefinite"/>
+<polygon points="126,133 135,138 135,140 126,135" fill="#0e1217"/>
+<polygon points="144,133 135,138 135,140 144,135" fill="#0b0e11"/>
+<polygon points="135,128 144,133 135,138 126,133" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.15s" repeatCount="indefinite"/>
+<polygon points="144,133 153,138 153,140 144,135" fill="#0e1217"/>
+<polygon points="162,133 153,138 153,140 162,135" fill="#0b0e11"/>
+<polygon points="153,128 162,133 153,138 144,133" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.42s" repeatCount="indefinite"/>
+<polygon points="162,133 171,138 171,140 162,135" fill="#0e1217"/>
+<polygon points="180,133 171,138 171,140 180,135" fill="#0b0e11"/>
+<polygon points="171,128 180,133 171,138 162,133" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.69s" repeatCount="indefinite"/>
+<polygon points="180,133 189,138 189,140 180,135" fill="#0e1217"/>
+<polygon points="198,133 189,138 189,140 198,135" fill="#0b0e11"/>
+<polygon points="189,128 198,133 189,138 180,133" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.96s" repeatCount="indefinite"/>
+<polygon points="198,133 207,138 207,140 198,135" fill="#0e1217"/>
+<polygon points="216,133 207,138 207,140 216,135" fill="#0b0e11"/>
+<polygon points="207,128 216,133 207,138 198,133" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.23s" repeatCount="indefinite"/>
+<polygon points="216,133 225,138 225,140 216,135" fill="#0e1217"/>
+<polygon points="234,133 225,138 225,140 234,135" fill="#0b0e11"/>
+<polygon points="225,128 234,133 225,138 216,133" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.50s" repeatCount="indefinite"/>
+<polygon points="234,133 243,138 243,140 234,135" fill="#0e1217"/>
+<polygon points="252,133 243,138 243,140 252,135" fill="#0b0e11"/>
+<polygon points="243,128 252,133 243,138 234,133" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.20s" repeatCount="indefinite"/>
+<polygon points="135,138 144,143 144,145 135,140" fill="#0e1217"/>
+<polygon points="153,138 144,143 144,145 153,140" fill="#0b0e11"/>
+<polygon points="144,133 153,138 144,143 135,138" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.47s" repeatCount="indefinite"/>
+<polygon points="153,138 162,143 162,145 153,140" fill="#0e1217"/>
+<polygon points="171,138 162,143 162,145 171,140" fill="#0b0e11"/>
+<polygon points="162,133 171,138 162,143 153,138" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.74s" repeatCount="indefinite"/>
+<polygon points="171,138 180,143 180,145 171,140" fill="#0e1217"/>
+<polygon points="189,138 180,143 180,145 189,140" fill="#0b0e11"/>
+<polygon points="180,133 189,138 180,143 171,138" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.01s" repeatCount="indefinite"/>
+<polygon points="189,138 198,143 198,145 189,140" fill="#0e1217"/>
+<polygon points="207,138 198,143 198,145 207,140" fill="#0b0e11"/>
+<polygon points="198,133 207,138 198,143 189,138" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.28s" repeatCount="indefinite"/>
+<polygon points="207,138 216,143 216,145 207,140" fill="#0e1217"/>
+<polygon points="225,138 216,143 216,145 225,140" fill="#0b0e11"/>
+<polygon points="216,133 225,138 216,143 207,138" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.55s" repeatCount="indefinite"/>
+<polygon points="225,138 234,143 234,145 225,140" fill="#0e1217"/>
+<polygon points="243,138 234,143 234,145 243,140" fill="#0b0e11"/>
+<polygon points="234,133 243,138 234,143 225,138" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.82s" repeatCount="indefinite"/>
+<polygon points="243,138 252,143 252,145 243,140" fill="#0e1217"/>
+<polygon points="261,138 252,143 252,145 261,140" fill="#0b0e11"/>
+<polygon points="252,133 261,138 252,143 243,138" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.51s" repeatCount="indefinite"/>
+<polygon points="144,143 153,148 153,150 144,145" fill="#0e1217"/>
+<polygon points="162,143 153,148 153,150 162,145" fill="#0b0e11"/>
+<polygon points="153,138 162,143 153,148 144,143" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.79s" repeatCount="indefinite"/>
+<polygon points="162,143 171,148 171,150 162,145" fill="#0e1217"/>
+<polygon points="180,143 171,148 171,150 180,145" fill="#0b0e11"/>
+<polygon points="171,138 180,143 171,148 162,143" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.05s" repeatCount="indefinite"/>
+<polygon points="180,143 189,148 189,150 180,145" fill="#0e1217"/>
+<polygon points="198,143 189,148 189,150 198,145" fill="#0b0e11"/>
+<polygon points="189,138 198,143 189,148 180,143" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.32s" repeatCount="indefinite"/>
+<polygon points="198,143 207,148 207,150 198,145" fill="#0e1217"/>
+<polygon points="216,143 207,148 207,150 216,145" fill="#0b0e11"/>
+<polygon points="207,138 216,143 207,148 198,143" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.59s" repeatCount="indefinite"/>
+<polygon points="216,143 225,148 225,150 216,145" fill="#0e1217"/>
+<polygon points="234,143 225,148 225,150 234,145" fill="#0b0e11"/>
+<polygon points="225,138 234,143 225,148 216,143" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.87s" repeatCount="indefinite"/>
+<polygon points="234,143 243,148 243,150 234,145" fill="#0e1217"/>
+<polygon points="252,143 243,148 243,150 252,145" fill="#0b0e11"/>
+<polygon points="243,138 252,143 243,148 234,143" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.13s" repeatCount="indefinite"/>
+<polygon points="252,143 261,148 261,150 252,145" fill="#0e1217"/>
+<polygon points="270,143 261,148 261,150 270,145" fill="#0b0e11"/>
+<polygon points="261,138 270,143 261,148 252,143" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="7.83s" repeatCount="indefinite"/>
+<polygon points="153,148 162,153 162,155 153,150" fill="#0e1217"/>
+<polygon points="171,148 162,153 162,155 171,150" fill="#0b0e11"/>
+<polygon points="162,143 171,148 162,153 153,148" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.10s" repeatCount="indefinite"/>
+<polygon points="171,148 180,153 180,155 171,150" fill="#0e1217"/>
+<polygon points="189,148 180,153 180,155 189,150" fill="#0b0e11"/>
+<polygon points="180,143 189,148 180,153 171,148" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.37s" repeatCount="indefinite"/>
+<polygon points="189,148 198,153 198,155 189,150" fill="#0e1217"/>
+<polygon points="207,148 198,153 198,155 207,150" fill="#0b0e11"/>
+<polygon points="198,143 207,148 198,153 189,148" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.64s" repeatCount="indefinite"/>
+<polygon points="207,148 216,153 216,155 207,150" fill="#0e1217"/>
+<polygon points="225,148 216,153 216,155 225,150" fill="#0b0e11"/>
+<polygon points="216,143 225,148 216,153 207,148" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.91s" repeatCount="indefinite"/>
+<polygon points="225,148 234,153 234,155 225,150" fill="#0e1217"/>
+<polygon points="243,148 234,153 234,155 243,150" fill="#0b0e11"/>
+<polygon points="234,143 243,148 234,153 225,148" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.18s" repeatCount="indefinite"/>
+<polygon points="243,148 252,153 252,155 243,150" fill="#0e1217"/>
+<polygon points="261,148 252,153 252,155 261,150" fill="#0b0e11"/>
+<polygon points="252,143 261,148 252,153 243,148" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.45s" repeatCount="indefinite"/>
+<polygon points="261,148 270,153 270,155 261,150" fill="#0e1217"/>
+<polygon points="279,148 270,153 270,155 279,150" fill="#0b0e11"/>
+<polygon points="270,143 279,148 270,153 261,148" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.14s" repeatCount="indefinite"/>
+<polygon points="162,153 171,158 171,160 162,155" fill="#0e1217"/>
+<polygon points="180,153 171,158 171,160 180,155" fill="#0b0e11"/>
+<polygon points="171,148 180,153 171,158 162,153" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.41s" repeatCount="indefinite"/>
+<polygon points="180,153 189,158 189,160 180,155" fill="#0e1217"/>
+<polygon points="198,153 189,158 189,160 198,155" fill="#0b0e11"/>
+<polygon points="189,148 198,153 189,158 180,153" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.69s" repeatCount="indefinite"/>
+<polygon points="198,153 207,158 207,160 198,155" fill="#0e1217"/>
+<polygon points="216,153 207,158 207,160 216,155" fill="#0b0e11"/>
+<polygon points="207,148 216,153 207,158 198,153" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.96s" repeatCount="indefinite"/>
+<polygon points="216,153 225,158 225,160 216,155" fill="#0e1217"/>
+<polygon points="234,153 225,158 225,160 234,155" fill="#0b0e11"/>
+<polygon points="225,148 234,153 225,158 216,153" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.22s" repeatCount="indefinite"/>
+<polygon points="234,153 243,158 243,160 234,155" fill="#0e1217"/>
+<polygon points="252,153 243,158 243,160 252,155" fill="#0b0e11"/>
+<polygon points="243,148 252,153 243,158 234,153" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.49s" repeatCount="indefinite"/>
+<polygon points="252,153 261,158 261,160 252,155" fill="#0e1217"/>
+<polygon points="270,153 261,158 261,160 270,155" fill="#0b0e11"/>
+<polygon points="261,148 270,153 261,158 252,153" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.76s" repeatCount="indefinite"/>
+<polygon points="270,153 279,158 279,160 270,155" fill="#0e1217"/>
+<polygon points="288,153 279,158 279,160 288,155" fill="#0b0e11"/>
+<polygon points="279,148 288,153 279,158 270,153" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.46s" repeatCount="indefinite"/>
+<polygon points="171,158 180,163 180,165 171,160" fill="#0e1217"/>
+<polygon points="189,158 180,163 180,165 189,160" fill="#0b0e11"/>
+<polygon points="180,153 189,158 180,163 171,158" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.73s" repeatCount="indefinite"/>
+<polygon points="189,158 198,163 198,165 189,160" fill="#0e1217"/>
+<polygon points="207,158 198,163 198,165 207,160" fill="#0b0e11"/>
+<polygon points="198,153 207,158 198,163 189,158" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.00s" repeatCount="indefinite"/>
+<polygon points="207,158 216,163 216,165 207,160" fill="#0e1217"/>
+<polygon points="225,158 216,163 216,165 225,160" fill="#0b0e11"/>
+<polygon points="216,153 225,158 216,163 207,158" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.27s" repeatCount="indefinite"/>
+<polygon points="225,158 234,163 234,165 225,160" fill="#0e1217"/>
+<polygon points="243,158 234,163 234,165 243,160" fill="#0b0e11"/>
+<polygon points="234,153 243,158 234,163 225,158" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.54s" repeatCount="indefinite"/>
+<polygon points="243,158 252,163 252,165 243,160" fill="#0e1217"/>
+<polygon points="261,158 252,163 252,165 261,160" fill="#0b0e11"/>
+<polygon points="252,153 261,158 252,163 243,158" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.81s" repeatCount="indefinite"/>
+<polygon points="261,158 270,163 270,165 261,160" fill="#0e1217"/>
+<polygon points="279,158 270,163 270,165 279,160" fill="#0b0e11"/>
+<polygon points="270,153 279,158 270,163 261,158" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.08s" repeatCount="indefinite"/>
+<polygon points="279,158 288,163 288,165 279,160" fill="#0e1217"/>
+<polygon points="297,158 288,163 288,165 297,160" fill="#0b0e11"/>
+<polygon points="288,153 297,158 288,163 279,158" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="8.78s" repeatCount="indefinite"/>
+<polygon points="180,163 189,168 189,170 180,165" fill="#0e1217"/>
+<polygon points="198,163 189,168 189,170 198,165" fill="#0b0e11"/>
+<polygon points="189,158 198,163 189,168 180,163" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.04s" repeatCount="indefinite"/>
+<polygon points="198,163 207,168 207,170 198,165" fill="#0e1217"/>
+<polygon points="216,163 207,168 207,170 216,165" fill="#0b0e11"/>
+<polygon points="207,158 216,163 207,168 198,163" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.31s" repeatCount="indefinite"/>
+<polygon points="216,163 225,168 225,170 216,165" fill="#0e1217"/>
+<polygon points="234,163 225,168 225,170 234,165" fill="#0b0e11"/>
+<polygon points="225,158 234,163 225,168 216,163" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.58s" repeatCount="indefinite"/>
+<polygon points="234,163 243,168 243,170 234,165" fill="#0e1217"/>
+<polygon points="252,163 243,168 243,170 252,165" fill="#0b0e11"/>
+<polygon points="243,158 252,163 243,168 234,163" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.86s" repeatCount="indefinite"/>
+<polygon points="252,163 261,168 261,170 252,165" fill="#0e1217"/>
+<polygon points="270,163 261,168 261,170 270,165" fill="#0b0e11"/>
+<polygon points="261,158 270,163 261,168 252,163" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.12s" repeatCount="indefinite"/>
+<polygon points="270,163 279,168 279,170 270,165" fill="#0e1217"/>
+<polygon points="288,163 279,168 279,170 288,165" fill="#0b0e11"/>
+<polygon points="279,158 288,163 279,168 270,163" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.39s" repeatCount="indefinite"/>
+<polygon points="288,163 297,168 297,170 288,165" fill="#0e1217"/>
+<polygon points="306,163 297,168 297,170 306,165" fill="#0b0e11"/>
+<polygon points="297,158 306,163 297,168 288,163" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.09s" repeatCount="indefinite"/>
+<polygon points="189,168 198,173 198,175 189,170" fill="#0e1217"/>
+<polygon points="207,168 198,173 198,175 207,170" fill="#0b0e11"/>
+<polygon points="198,163 207,168 198,173 189,168" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.36s" repeatCount="indefinite"/>
+<polygon points="207,168 216,173 216,175 207,170" fill="#0e1217"/>
+<polygon points="225,168 216,173 216,175 225,170" fill="#0b0e11"/>
+<polygon points="216,163 225,168 216,173 207,168" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.63s" repeatCount="indefinite"/>
+<polygon points="225,168 234,173 234,175 225,170" fill="#0e1217"/>
+<polygon points="243,168 234,173 234,175 243,170" fill="#0b0e11"/>
+<polygon points="234,163 243,168 234,173 225,168" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.90s" repeatCount="indefinite"/>
+<polygon points="243,168 252,173 252,175 243,170" fill="#0e1217"/>
+<polygon points="261,168 252,173 252,175 261,170" fill="#0b0e11"/>
+<polygon points="252,163 261,168 252,173 243,168" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.17s" repeatCount="indefinite"/>
+<polygon points="261,168 270,173 270,175 261,170" fill="#0e1217"/>
+<polygon points="279,168 270,173 270,175 279,170" fill="#0b0e11"/>
+<polygon points="270,163 279,168 270,173 261,168" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.44s" repeatCount="indefinite"/>
+<polygon points="279,168 288,173 288,175 279,170" fill="#0e1217"/>
+<polygon points="297,168 288,173 288,175 297,170" fill="#0b0e11"/>
+<polygon points="288,163 297,168 288,173 279,168" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.71s" repeatCount="indefinite"/>
+<polygon points="297,168 306,173 306,175 297,170" fill="#0e1217"/>
+<polygon points="315,168 306,173 306,175 315,170" fill="#0b0e11"/>
+<polygon points="306,163 315,168 306,173 297,168" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.40s" repeatCount="indefinite"/>
+<polygon points="198,173 207,178 207,180 198,175" fill="#0e1217"/>
+<polygon points="216,173 207,178 207,180 216,175" fill="#0b0e11"/>
+<polygon points="207,168 216,173 207,178 198,173" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.67s" repeatCount="indefinite"/>
+<polygon points="216,173 225,178 225,180 216,175" fill="#0e1217"/>
+<polygon points="234,173 225,178 225,180 234,175" fill="#0b0e11"/>
+<polygon points="225,168 234,173 225,178 216,173" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.95s" repeatCount="indefinite"/>
+<polygon points="234,173 243,178 243,180 234,175" fill="#0e1217"/>
+<polygon points="252,173 243,178 243,180 252,175" fill="#0b0e11"/>
+<polygon points="243,168 252,173 243,178 234,173" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.21s" repeatCount="indefinite"/>
+<polygon points="252,173 261,178 261,180 252,175" fill="#0e1217"/>
+<polygon points="270,173 261,178 261,180 270,175" fill="#0b0e11"/>
+<polygon points="261,168 270,173 261,178 252,173" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.48s" repeatCount="indefinite"/>
+<polygon points="270,173 279,178 279,180 270,175" fill="#0e1217"/>
+<polygon points="288,173 279,178 279,180 288,175" fill="#0b0e11"/>
+<polygon points="279,168 288,173 279,178 270,173" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.75s" repeatCount="indefinite"/>
+<polygon points="288,173 297,178 297,180 288,175" fill="#0e1217"/>
+<polygon points="306,173 297,178 297,180 306,175" fill="#0b0e11"/>
+<polygon points="297,168 306,173 297,178 288,173" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.03s" repeatCount="indefinite"/>
+<polygon points="306,173 315,178 315,180 306,175" fill="#0e1217"/>
+<polygon points="324,173 315,178 315,180 324,175" fill="#0b0e11"/>
+<polygon points="315,168 324,173 315,178 306,173" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.72s" repeatCount="indefinite"/>
+<polygon points="207,178 216,183 216,185 207,180" fill="#0e1217"/>
+<polygon points="225,178 216,183 216,185 225,180" fill="#0b0e11"/>
+<polygon points="216,173 225,178 216,183 207,178" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="9.99s" repeatCount="indefinite"/>
+<polygon points="225,178 234,183 234,185 225,180" fill="#0e1217"/>
+<polygon points="243,178 234,183 234,185 243,180" fill="#0b0e11"/>
+<polygon points="234,173 243,178 234,183 225,178" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.26s" repeatCount="indefinite"/>
+<polygon points="243,178 252,183 252,185 243,180" fill="#0e1217"/>
+<polygon points="261,178 252,183 252,185 261,180" fill="#0b0e11"/>
+<polygon points="252,173 261,178 252,183 243,178" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.53s" repeatCount="indefinite"/>
+<polygon points="261,178 270,183 270,185 261,180" fill="#0e1217"/>
+<polygon points="279,178 270,183 270,185 279,180" fill="#0b0e11"/>
+<polygon points="270,173 279,178 270,183 261,178" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.80s" repeatCount="indefinite"/>
+<polygon points="279,178 288,183 288,185 279,180" fill="#0e1217"/>
+<polygon points="297,178 288,183 288,185 297,180" fill="#0b0e11"/>
+<polygon points="288,173 297,178 288,183 279,178" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.07s" repeatCount="indefinite"/>
+<polygon points="297,178 306,183 306,185 297,180" fill="#0e1217"/>
+<polygon points="315,178 306,183 306,185 315,180" fill="#0b0e11"/>
+<polygon points="306,173 315,178 306,183 297,178" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.34s" repeatCount="indefinite"/>
+<polygon points="315,178 324,183 324,185 315,180" fill="#0e1217"/>
+<polygon points="333,178 324,183 324,185 333,180" fill="#0b0e11"/>
+<polygon points="324,173 333,178 324,183 315,178" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.04s" repeatCount="indefinite"/>
+<polygon points="216,183 225,188 225,190 216,185" fill="#0e1217"/>
+<polygon points="234,183 225,188 225,190 234,185" fill="#0b0e11"/>
+<polygon points="225,178 234,183 225,188 216,183" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.30s" repeatCount="indefinite"/>
+<polygon points="234,183 243,188 243,190 234,185" fill="#0e1217"/>
+<polygon points="252,183 243,188 243,190 252,185" fill="#0b0e11"/>
+<polygon points="243,178 252,183 243,188 234,183" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.57s" repeatCount="indefinite"/>
+<polygon points="252,183 261,188 261,190 252,185" fill="#0e1217"/>
+<polygon points="270,183 261,188 261,190 270,185" fill="#0b0e11"/>
+<polygon points="261,178 270,183 261,188 252,183" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.84s" repeatCount="indefinite"/>
+<polygon points="270,183 279,188 279,190 270,185" fill="#0e1217"/>
+<polygon points="288,183 279,188 279,190 288,185" fill="#0b0e11"/>
+<polygon points="279,178 288,183 279,188 270,183" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.12s" repeatCount="indefinite"/>
+<polygon points="288,183 297,188 297,190 288,185" fill="#0e1217"/>
+<polygon points="306,183 297,188 297,190 306,185" fill="#0b0e11"/>
+<polygon points="297,178 306,183 297,188 288,183" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.38s" repeatCount="indefinite"/>
+<polygon points="306,183 315,188 315,190 306,185" fill="#0e1217"/>
+<polygon points="324,183 315,188 315,190 324,185" fill="#0b0e11"/>
+<polygon points="315,178 324,183 315,188 306,183" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.65s" repeatCount="indefinite"/>
+<polygon points="324,183 333,188 333,190 324,185" fill="#0e1217"/>
+<polygon points="342,183 333,188 333,190 342,185" fill="#0b0e11"/>
+<polygon points="333,178 342,183 333,188 324,183" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.35s" repeatCount="indefinite"/>
+<polygon points="225,188 234,193 234,195 225,190" fill="#0e1217"/>
+<polygon points="243,188 234,193 234,195 243,190" fill="#0b0e11"/>
+<polygon points="234,183 243,188 234,193 225,188" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.62s" repeatCount="indefinite"/>
+<polygon points="243,188 252,193 252,195 243,190" fill="#0e1217"/>
+<polygon points="261,188 252,193 252,195 261,190" fill="#0b0e11"/>
+<polygon points="252,183 261,188 252,193 243,188" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.89s" repeatCount="indefinite"/>
+<polygon points="261,188 270,193 270,195 261,190" fill="#0e1217"/>
+<polygon points="279,188 270,193 270,195 279,190" fill="#0b0e11"/>
+<polygon points="270,183 279,188 270,193 261,188" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.16s" repeatCount="indefinite"/>
+<polygon points="279,188 288,193 288,195 279,190" fill="#0e1217"/>
+<polygon points="297,188 288,193 288,195 297,190" fill="#0b0e11"/>
+<polygon points="288,183 297,188 288,193 279,188" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.43s" repeatCount="indefinite"/>
+<polygon points="297,188 306,193 306,195 297,190" fill="#0e1217"/>
+<polygon points="315,188 306,193 306,195 315,190" fill="#0b0e11"/>
+<polygon points="306,183 315,188 306,193 297,188" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.70s" repeatCount="indefinite"/>
+<polygon points="315,188 324,193 324,195 315,190" fill="#0e1217"/>
+<polygon points="333,188 324,193 324,195 333,190" fill="#0b0e11"/>
+<polygon points="324,183 333,188 324,193 315,188" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.97s" repeatCount="indefinite"/>
+<polygon points="333,188 342,193 342,195 333,190" fill="#0e1217"/>
+<polygon points="351,188 342,193 342,195 351,190" fill="#0b0e11"/>
+<polygon points="342,183 351,188 342,193 333,188" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.66s" repeatCount="indefinite"/>
+<polygon points="234,193 243,198 243,200 234,195" fill="#0e1217"/>
+<polygon points="252,193 243,198 243,200 252,195" fill="#0b0e11"/>
+<polygon points="243,188 252,193 243,198 234,193" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.93s" repeatCount="indefinite"/>
+<polygon points="252,193 261,198 261,200 252,195" fill="#0e1217"/>
+<polygon points="270,193 261,198 261,200 270,195" fill="#0b0e11"/>
+<polygon points="261,188 270,193 261,198 252,193" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.21s" repeatCount="indefinite"/>
+<polygon points="270,193 279,198 279,200 270,195" fill="#0e1217"/>
+<polygon points="288,193 279,198 279,200 288,195" fill="#0b0e11"/>
+<polygon points="279,188 288,193 279,198 270,193" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.47s" repeatCount="indefinite"/>
+<polygon points="288,193 297,198 297,200 288,195" fill="#0e1217"/>
+<polygon points="306,193 297,198 297,200 306,195" fill="#0b0e11"/>
+<polygon points="297,188 306,193 297,198 288,193" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.74s" repeatCount="indefinite"/>
+<polygon points="306,193 315,198 315,200 306,195" fill="#0e1217"/>
+<polygon points="324,193 315,198 315,200 324,195" fill="#0b0e11"/>
+<polygon points="315,188 324,193 315,198 306,193" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.01s" repeatCount="indefinite"/>
+<polygon points="324,193 333,198 333,200 324,195" fill="#0e1217"/>
+<polygon points="342,193 333,198 333,200 342,195" fill="#0b0e11"/>
+<polygon points="333,188 342,193 333,198 324,193" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.29s" repeatCount="indefinite"/>
+<polygon points="342,193 351,198 351,200 342,195" fill="#0e1217"/>
+<polygon points="360,193 351,198 351,200 360,195" fill="#0b0e11"/>
+<polygon points="351,188 360,193 351,198 342,193" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="10.98s" repeatCount="indefinite"/>
+<polygon points="243,198 252,203 252,205 243,200" fill="#0e1217"/>
+<polygon points="261,198 252,203 252,205 261,200" fill="#0b0e11"/>
+<polygon points="252,193 261,198 252,203 243,198" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.25s" repeatCount="indefinite"/>
+<polygon points="261,198 270,203 270,205 261,200" fill="#0e1217"/>
+<polygon points="279,198 270,203 270,205 279,200" fill="#0b0e11"/>
+<polygon points="270,193 279,198 270,203 261,198" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.52s" repeatCount="indefinite"/>
+<polygon points="279,198 288,203 288,205 279,200" fill="#0e1217"/>
+<polygon points="297,198 288,203 288,205 297,200" fill="#0b0e11"/>
+<polygon points="288,193 297,198 288,203 279,198" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.79s" repeatCount="indefinite"/>
+<polygon points="297,198 306,203 306,205 297,200" fill="#0e1217"/>
+<polygon points="315,198 306,203 306,205 315,200" fill="#0b0e11"/>
+<polygon points="306,193 315,198 306,203 297,198" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.06s" repeatCount="indefinite"/>
+<polygon points="315,198 324,203 324,205 315,200" fill="#0e1217"/>
+<polygon points="333,198 324,203 324,205 333,200" fill="#0b0e11"/>
+<polygon points="324,193 333,198 324,203 315,198" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.33s" repeatCount="indefinite"/>
+<polygon points="333,198 342,203 342,205 333,200" fill="#0e1217"/>
+<polygon points="351,198 342,203 342,205 351,200" fill="#0b0e11"/>
+<polygon points="342,193 351,198 342,203 333,198" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.60s" repeatCount="indefinite"/>
+<polygon points="351,198 360,203 360,205 351,200" fill="#0e1217"/>
+<polygon points="369,198 360,203 360,205 369,200" fill="#0b0e11"/>
+<polygon points="360,193 369,198 360,203 351,198" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.29s" repeatCount="indefinite"/>
+<polygon points="252,203 261,208 261,210 252,205" fill="#0e1217"/>
+<polygon points="270,203 261,208 261,210 270,205" fill="#0b0e11"/>
+<polygon points="261,198 270,203 261,208 252,203" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.56s" repeatCount="indefinite"/>
+<polygon points="270,203 279,208 279,210 270,205" fill="#0e1217"/>
+<polygon points="288,203 279,208 279,210 288,205" fill="#0b0e11"/>
+<polygon points="279,198 288,203 279,208 270,203" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.83s" repeatCount="indefinite"/>
+<polygon points="288,203 297,208 297,210 288,205" fill="#0e1217"/>
+<polygon points="306,203 297,208 297,210 306,205" fill="#0b0e11"/>
+<polygon points="297,198 306,203 297,208 288,203" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.11s" repeatCount="indefinite"/>
+<polygon points="306,203 315,208 315,210 306,205" fill="#0e1217"/>
+<polygon points="324,203 315,208 315,210 324,205" fill="#0b0e11"/>
+<polygon points="315,198 324,203 315,208 306,203" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.38s" repeatCount="indefinite"/>
+<polygon points="324,203 333,208 333,210 324,205" fill="#0e1217"/>
+<polygon points="342,203 333,208 333,210 342,205" fill="#0b0e11"/>
+<polygon points="333,198 342,203 333,208 324,203" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.64s" repeatCount="indefinite"/>
+<polygon points="342,203 351,208 351,210 342,205" fill="#0e1217"/>
+<polygon points="360,203 351,208 351,210 360,205" fill="#0b0e11"/>
+<polygon points="351,198 360,203 351,208 342,203" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.91s" repeatCount="indefinite"/>
+<polygon points="360,203 369,208 369,210 360,205" fill="#0e1217"/>
+<polygon points="378,203 369,208 369,210 378,205" fill="#0b0e11"/>
+<polygon points="369,198 378,203 369,208 360,203" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.61s" repeatCount="indefinite"/>
+<polygon points="261,208 270,213 270,215 261,210" fill="#0e1217"/>
+<polygon points="279,208 270,213 270,215 279,210" fill="#0b0e11"/>
+<polygon points="270,203 279,208 270,213 261,208" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.88s" repeatCount="indefinite"/>
+<polygon points="279,208 288,213 288,215 279,210" fill="#0e1217"/>
+<polygon points="297,208 288,213 288,215 297,210" fill="#0b0e11"/>
+<polygon points="288,203 297,208 288,213 279,208" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.15s" repeatCount="indefinite"/>
+<polygon points="297,208 306,213 306,215 297,210" fill="#0e1217"/>
+<polygon points="315,208 306,213 306,215 315,210" fill="#0b0e11"/>
+<polygon points="306,203 315,208 306,213 297,208" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.42s" repeatCount="indefinite"/>
+<polygon points="315,208 324,213 324,215 315,210" fill="#0e1217"/>
+<polygon points="333,208 324,213 324,215 333,210" fill="#0b0e11"/>
+<polygon points="324,203 333,208 324,213 315,208" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.69s" repeatCount="indefinite"/>
+<polygon points="333,208 342,213 342,215 333,210" fill="#0e1217"/>
+<polygon points="351,208 342,213 342,215 351,210" fill="#0b0e11"/>
+<polygon points="342,203 351,208 342,213 333,208" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.96s" repeatCount="indefinite"/>
+<polygon points="351,208 360,213 360,215 351,210" fill="#0e1217"/>
+<polygon points="369,208 360,213 360,215 369,210" fill="#0b0e11"/>
+<polygon points="360,203 369,208 360,213 351,208" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.23s" repeatCount="indefinite"/>
+<polygon points="369,208 378,213 378,215 369,210" fill="#0e1217"/>
+<polygon points="387,208 378,213 378,215 387,210" fill="#0b0e11"/>
+<polygon points="378,203 387,208 378,213 369,208" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="11.92s" repeatCount="indefinite"/>
+<polygon points="270,213 279,218 279,220 270,215" fill="#0e1217"/>
+<polygon points="288,213 279,218 279,220 288,215" fill="#0b0e11"/>
+<polygon points="279,208 288,213 279,218 270,213" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.20s" repeatCount="indefinite"/>
+<polygon points="288,213 297,218 297,220 288,215" fill="#0e1217"/>
+<polygon points="306,213 297,218 297,220 306,215" fill="#0b0e11"/>
+<polygon points="297,208 306,213 297,218 288,213" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.46s" repeatCount="indefinite"/>
+<polygon points="306,213 315,218 315,220 306,215" fill="#0e1217"/>
+<polygon points="324,213 315,218 315,220 324,215" fill="#0b0e11"/>
+<polygon points="315,208 324,213 315,218 306,213" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.73s" repeatCount="indefinite"/>
+<polygon points="324,213 333,218 333,220 324,215" fill="#0e1217"/>
+<polygon points="342,213 333,218 333,220 342,215" fill="#0b0e11"/>
+<polygon points="333,208 342,213 333,218 324,213" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.00s" repeatCount="indefinite"/>
+<polygon points="342,213 351,218 351,220 342,215" fill="#0e1217"/>
+<polygon points="360,213 351,218 351,220 360,215" fill="#0b0e11"/>
+<polygon points="351,208 360,213 351,218 342,213" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.28s" repeatCount="indefinite"/>
+<polygon points="360,213 369,218 369,220 360,215" fill="#0e1217"/>
+<polygon points="378,213 369,218 369,220 378,215" fill="#0b0e11"/>
+<polygon points="369,208 378,213 369,218 360,213" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.54s" repeatCount="indefinite"/>
+<polygon points="378,213 387,218 387,220 378,215" fill="#0e1217"/>
+<polygon points="396,213 387,218 387,220 396,215" fill="#0b0e11"/>
+<polygon points="387,208 396,213 387,218 378,213" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.24s" repeatCount="indefinite"/>
+<polygon points="279,218 288,223 288,225 279,220" fill="#0e1217"/>
+<polygon points="297,218 288,223 288,225 297,220" fill="#0b0e11"/>
+<polygon points="288,213 297,218 288,223 279,218" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.51s" repeatCount="indefinite"/>
+<polygon points="297,218 306,223 306,225 297,220" fill="#0e1217"/>
+<polygon points="315,218 306,223 306,225 315,220" fill="#0b0e11"/>
+<polygon points="306,213 315,218 306,223 297,218" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.78s" repeatCount="indefinite"/>
+<polygon points="315,218 324,223 324,225 315,220" fill="#0e1217"/>
+<polygon points="333,218 324,223 324,225 333,220" fill="#0b0e11"/>
+<polygon points="324,213 333,218 324,223 315,218" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.05s" repeatCount="indefinite"/>
+<polygon points="333,218 342,223 342,225 333,220" fill="#0e1217"/>
+<polygon points="351,218 342,223 342,225 351,220" fill="#0b0e11"/>
+<polygon points="342,213 351,218 342,223 333,218" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.32s" repeatCount="indefinite"/>
+<polygon points="351,218 360,223 360,225 351,220" fill="#0e1217"/>
+<polygon points="369,218 360,223 360,225 369,220" fill="#0b0e11"/>
+<polygon points="360,213 369,218 360,223 351,218" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.59s" repeatCount="indefinite"/>
+<polygon points="369,218 378,223 378,225 369,220" fill="#0e1217"/>
+<polygon points="387,218 378,223 378,225 387,220" fill="#0b0e11"/>
+<polygon points="378,213 387,218 378,223 369,218" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.86s" repeatCount="indefinite"/>
+<polygon points="387,218 396,223 396,225 387,220" fill="#0e1217"/>
+<polygon points="405,218 396,223 396,225 405,220" fill="#0b0e11"/>
+<polygon points="396,213 405,218 396,223 387,218" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.55s" repeatCount="indefinite"/>
+<polygon points="288,223 297,228 297,230 288,225" fill="#0e1217"/>
+<polygon points="306,223 297,228 297,230 306,225" fill="#0b0e11"/>
+<polygon points="297,218 306,223 297,228 288,223" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.82s" repeatCount="indefinite"/>
+<polygon points="306,223 315,228 315,230 306,225" fill="#0e1217"/>
+<polygon points="324,223 315,228 315,230 324,225" fill="#0b0e11"/>
+<polygon points="315,218 324,223 315,228 306,223" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.09s" repeatCount="indefinite"/>
+<polygon points="324,223 333,228 333,230 324,225" fill="#0e1217"/>
+<polygon points="342,223 333,228 333,230 342,225" fill="#0b0e11"/>
+<polygon points="333,218 342,223 333,228 324,223" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.37s" repeatCount="indefinite"/>
+<polygon points="342,223 351,228 351,230 342,225" fill="#0e1217"/>
+<polygon points="360,223 351,228 351,230 360,225" fill="#0b0e11"/>
+<polygon points="351,218 360,223 351,228 342,223" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.63s" repeatCount="indefinite"/>
+<polygon points="360,223 369,228 369,230 360,225" fill="#0e1217"/>
+<polygon points="378,223 369,228 369,230 378,225" fill="#0b0e11"/>
+<polygon points="369,218 378,223 369,228 360,223" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.90s" repeatCount="indefinite"/>
+<polygon points="378,223 387,228 387,230 378,225" fill="#0e1217"/>
+<polygon points="396,223 387,228 387,230 396,225" fill="#0b0e11"/>
+<polygon points="387,218 396,223 387,228 378,223" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.17s" repeatCount="indefinite"/>
+<polygon points="396,223 405,228 405,230 396,225" fill="#0e1217"/>
+<polygon points="414,223 405,228 405,230 414,225" fill="#0b0e11"/>
+<polygon points="405,218 414,223 405,228 396,223" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="12.87s" repeatCount="indefinite"/>
+<polygon points="297,228 306,233 306,235 297,230" fill="#0e1217"/>
+<polygon points="315,228 306,233 306,235 315,230" fill="#0b0e11"/>
+<polygon points="306,223 315,228 306,233 297,228" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.14s" repeatCount="indefinite"/>
+<polygon points="315,228 324,233 324,235 315,230" fill="#0e1217"/>
+<polygon points="333,228 324,233 324,235 333,230" fill="#0b0e11"/>
+<polygon points="324,223 333,228 324,233 315,228" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.41s" repeatCount="indefinite"/>
+<polygon points="333,228 342,233 342,235 333,230" fill="#0e1217"/>
+<polygon points="351,228 342,233 342,235 351,230" fill="#0b0e11"/>
+<polygon points="342,223 351,228 342,233 333,228" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.68s" repeatCount="indefinite"/>
+<polygon points="351,228 360,233 360,235 351,230" fill="#0e1217"/>
+<polygon points="369,228 360,233 360,235 369,230" fill="#0b0e11"/>
+<polygon points="360,223 369,228 360,233 351,228" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.95s" repeatCount="indefinite"/>
+<polygon points="369,228 378,233 378,235 369,230" fill="#0e1217"/>
+<polygon points="387,228 378,233 378,235 387,230" fill="#0b0e11"/>
+<polygon points="378,223 387,228 378,233 369,228" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.22s" repeatCount="indefinite"/>
+<polygon points="387,228 396,233 396,235 387,230" fill="#0e1217"/>
+<polygon points="405,228 396,233 396,235 405,230" fill="#0b0e11"/>
+<polygon points="396,223 405,228 396,233 387,228" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.49s" repeatCount="indefinite"/>
+<polygon points="405,228 414,233 414,235 405,230" fill="#0e1217"/>
+<polygon points="423,228 414,233 414,235 423,230" fill="#0b0e11"/>
+<polygon points="414,223 423,228 414,233 405,228" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.18s" repeatCount="indefinite"/>
+<polygon points="306,233 315,238 315,240 306,235" fill="#0e1217"/>
+<polygon points="324,233 315,238 315,240 324,235" fill="#0b0e11"/>
+<polygon points="315,228 324,233 315,238 306,233" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.46s" repeatCount="indefinite"/>
+<polygon points="324,233 333,238 333,240 324,235" fill="#0e1217"/>
+<polygon points="342,233 333,238 333,240 342,235" fill="#0b0e11"/>
+<polygon points="333,228 342,233 333,238 324,233" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.72s" repeatCount="indefinite"/>
+<polygon points="342,233 351,238 351,240 342,235" fill="#0e1217"/>
+<polygon points="360,233 351,238 351,240 360,235" fill="#0b0e11"/>
+<polygon points="351,228 360,233 351,238 342,233" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.99s" repeatCount="indefinite"/>
+<polygon points="360,233 369,238 369,240 360,235" fill="#0e1217"/>
+<polygon points="378,233 369,238 369,240 378,235" fill="#0b0e11"/>
+<polygon points="369,228 378,233 369,238 360,233" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.26s" repeatCount="indefinite"/>
+<polygon points="378,233 387,238 387,240 378,235" fill="#0e1217"/>
+<polygon points="396,233 387,238 387,240 396,235" fill="#0b0e11"/>
+<polygon points="387,228 396,233 387,238 378,233" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.54s" repeatCount="indefinite"/>
+<polygon points="396,233 405,238 405,240 396,235" fill="#0e1217"/>
+<polygon points="414,233 405,238 405,240 414,235" fill="#0b0e11"/>
+<polygon points="405,228 414,233 405,238 396,233" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.80s" repeatCount="indefinite"/>
+<polygon points="414,233 423,238 423,240 414,235" fill="#0e1217"/>
+<polygon points="432,233 423,238 423,240 432,235" fill="#0b0e11"/>
+<polygon points="423,228 432,233 423,238 414,233" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.50s" repeatCount="indefinite"/>
+<polygon points="315,238 324,243 324,245 315,240" fill="#0e1217"/>
+<polygon points="333,238 324,243 324,245 333,240" fill="#0b0e11"/>
+<polygon points="324,233 333,238 324,243 315,238" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.77s" repeatCount="indefinite"/>
+<polygon points="333,238 342,243 342,245 333,240" fill="#0e1217"/>
+<polygon points="351,238 342,243 342,245 351,240" fill="#0b0e11"/>
+<polygon points="342,233 351,238 342,243 333,238" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.04s" repeatCount="indefinite"/>
+<polygon points="351,238 360,243 360,245 351,240" fill="#0e1217"/>
+<polygon points="369,238 360,243 360,245 369,240" fill="#0b0e11"/>
+<polygon points="360,233 369,238 360,243 351,238" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.31s" repeatCount="indefinite"/>
+<polygon points="369,238 378,243 378,245 369,240" fill="#0e1217"/>
+<polygon points="387,238 378,243 378,245 387,240" fill="#0b0e11"/>
+<polygon points="378,233 387,238 378,243 369,238" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.58s" repeatCount="indefinite"/>
+<polygon points="387,238 396,243 396,245 387,240" fill="#0e1217"/>
+<polygon points="405,238 396,243 396,245 405,240" fill="#0b0e11"/>
+<polygon points="396,233 405,238 396,243 387,238" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.85s" repeatCount="indefinite"/>
+<polygon points="405,238 414,243 414,245 405,240" fill="#0e1217"/>
+<polygon points="423,238 414,243 414,245 423,240" fill="#0b0e11"/>
+<polygon points="414,233 423,238 414,243 405,238" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.12s" repeatCount="indefinite"/>
+<polygon points="423,238 432,243 432,245 423,240" fill="#0e1217"/>
+<polygon points="441,238 432,243 432,245 441,240" fill="#0b0e11"/>
+<polygon points="432,233 441,238 432,243 423,238" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="13.81s" repeatCount="indefinite"/>
+<polygon points="324,243 333,248 333,250 324,245" fill="#0e1217"/>
+<polygon points="342,243 333,248 333,250 342,245" fill="#0b0e11"/>
+<polygon points="333,238 342,243 333,248 324,243" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.08s" repeatCount="indefinite"/>
+<polygon points="342,243 351,248 351,250 342,245" fill="#0e1217"/>
+<polygon points="360,243 351,248 351,250 360,245" fill="#0b0e11"/>
+<polygon points="351,238 360,243 351,248 342,243" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.35s" repeatCount="indefinite"/>
+<polygon points="360,243 369,248 369,250 360,245" fill="#0e1217"/>
+<polygon points="378,243 369,248 369,250 378,245" fill="#0b0e11"/>
+<polygon points="369,238 378,243 369,248 360,243" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.62s" repeatCount="indefinite"/>
+<polygon points="378,243 387,248 387,250 378,245" fill="#0e1217"/>
+<polygon points="396,243 387,248 387,250 396,245" fill="#0b0e11"/>
+<polygon points="387,238 396,243 387,248 378,243" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.89s" repeatCount="indefinite"/>
+<polygon points="396,243 405,248 405,250 396,245" fill="#0e1217"/>
+<polygon points="414,243 405,248 405,250 414,245" fill="#0b0e11"/>
+<polygon points="405,238 414,243 405,248 396,243" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.16s" repeatCount="indefinite"/>
+<polygon points="414,243 423,248 423,250 414,245" fill="#0e1217"/>
+<polygon points="432,243 423,248 423,250 432,245" fill="#0b0e11"/>
+<polygon points="423,238 432,243 423,248 414,243" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.43s" repeatCount="indefinite"/>
+<polygon points="432,243 441,248 441,250 432,245" fill="#0e1217"/>
+<polygon points="450,243 441,248 441,250 450,245" fill="#0b0e11"/>
+<polygon points="441,238 450,243 441,248 432,243" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.13s" repeatCount="indefinite"/>
+<polygon points="333,248 342,253 342,255 333,250" fill="#0e1217"/>
+<polygon points="351,248 342,253 342,255 351,250" fill="#0b0e11"/>
+<polygon points="342,243 351,248 342,253 333,248" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.40s" repeatCount="indefinite"/>
+<polygon points="351,248 360,253 360,255 351,250" fill="#0e1217"/>
+<polygon points="369,248 360,253 360,255 369,250" fill="#0b0e11"/>
+<polygon points="360,243 369,248 360,253 351,248" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.67s" repeatCount="indefinite"/>
+<polygon points="369,248 378,253 378,255 369,250" fill="#0e1217"/>
+<polygon points="387,248 378,253 378,255 387,250" fill="#0b0e11"/>
+<polygon points="378,243 387,248 378,253 369,248" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.94s" repeatCount="indefinite"/>
+<polygon points="387,248 396,253 396,255 387,250" fill="#0e1217"/>
+<polygon points="405,248 396,253 396,255 405,250" fill="#0b0e11"/>
+<polygon points="396,243 405,248 396,253 387,248" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.21s" repeatCount="indefinite"/>
+<polygon points="405,248 414,253 414,255 405,250" fill="#0e1217"/>
+<polygon points="423,248 414,253 414,255 423,250" fill="#0b0e11"/>
+<polygon points="414,243 423,248 414,253 405,248" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.48s" repeatCount="indefinite"/>
+<polygon points="423,248 432,253 432,255 423,250" fill="#0e1217"/>
+<polygon points="441,248 432,253 432,255 441,250" fill="#0b0e11"/>
+<polygon points="432,243 441,248 432,253 423,248" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.75s" repeatCount="indefinite"/>
+<polygon points="441,248 450,253 450,255 441,250" fill="#0e1217"/>
+<polygon points="459,248 450,253 450,255 459,250" fill="#0b0e11"/>
+<polygon points="450,243 459,248 450,253 441,248" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.45s" repeatCount="indefinite"/>
+<polygon points="342,253 351,258 351,260 342,255" fill="#0e1217"/>
+<polygon points="360,253 351,258 351,260 360,255" fill="#0b0e11"/>
+<polygon points="351,248 360,253 351,258 342,253" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.71s" repeatCount="indefinite"/>
+<polygon points="360,253 369,258 369,260 360,255" fill="#0e1217"/>
+<polygon points="378,253 369,258 369,260 378,255" fill="#0b0e11"/>
+<polygon points="369,248 378,253 369,258 360,253" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.98s" repeatCount="indefinite"/>
+<polygon points="378,253 387,258 387,260 378,255" fill="#0e1217"/>
+<polygon points="396,253 387,258 387,260 396,255" fill="#0b0e11"/>
+<polygon points="387,248 396,253 387,258 378,253" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.25s" repeatCount="indefinite"/>
+<polygon points="396,253 405,258 405,260 396,255" fill="#0e1217"/>
+<polygon points="414,253 405,258 405,260 414,255" fill="#0b0e11"/>
+<polygon points="405,248 414,253 405,258 396,253" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.52s" repeatCount="indefinite"/>
+<polygon points="414,253 423,258 423,260 414,255" fill="#0e1217"/>
+<polygon points="432,253 423,258 423,260 432,255" fill="#0b0e11"/>
+<polygon points="423,248 432,253 423,258 414,253" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.79s" repeatCount="indefinite"/>
+<polygon points="432,253 441,258 441,260 432,255" fill="#0e1217"/>
+<polygon points="450,253 441,258 441,260 450,255" fill="#0b0e11"/>
+<polygon points="441,248 450,253 441,258 432,253" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.06s" repeatCount="indefinite"/>
+<polygon points="450,253 459,258 459,260 450,255" fill="#0e1217"/>
+<polygon points="468,253 459,258 459,260 468,255" fill="#0b0e11"/>
+<polygon points="459,248 468,253 459,258 450,253" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.76s" repeatCount="indefinite"/>
+<polygon points="351,258 360,263 360,265 351,260" fill="#0e1217"/>
+<polygon points="369,258 360,263 360,265 369,260" fill="#0b0e11"/>
+<polygon points="360,253 369,258 360,263 351,258" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.03s" repeatCount="indefinite"/>
+<polygon points="369,258 378,263 378,265 369,260" fill="#0e1217"/>
+<polygon points="387,258 378,263 378,265 387,260" fill="#0b0e11"/>
+<polygon points="378,253 387,258 378,263 369,258" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.30s" repeatCount="indefinite"/>
+<polygon points="387,258 396,263 396,265 387,260" fill="#0e1217"/>
+<polygon points="405,258 396,263 396,265 405,260" fill="#0b0e11"/>
+<polygon points="396,253 405,258 396,263 387,258" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.57s" repeatCount="indefinite"/>
+<polygon points="405,258 414,263 414,265 405,260" fill="#0e1217"/>
+<polygon points="423,258 414,263 414,265 423,260" fill="#0b0e11"/>
+<polygon points="414,253 423,258 414,263 405,258" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.84s" repeatCount="indefinite"/>
+<polygon points="423,258 432,263 432,265 423,260" fill="#0e1217"/>
+<polygon points="441,258 432,263 432,265 441,260" fill="#0b0e11"/>
+<polygon points="432,253 441,258 432,263 423,258" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.11s" repeatCount="indefinite"/>
+<polygon points="441,258 450,263 450,265 441,260" fill="#0e1217"/>
+<polygon points="459,258 450,263 450,265 459,260" fill="#0b0e11"/>
+<polygon points="450,253 459,258 450,263 441,258" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.38s" repeatCount="indefinite"/>
+<polygon points="459,258 468,263 468,265 459,260" fill="#0e1217"/>
+<polygon points="477,258 468,263 468,265 477,260" fill="#0b0e11"/>
+<polygon points="468,253 477,258 468,263 459,258" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.07s" repeatCount="indefinite"/>
+<polygon points="360,263 369,268 369,270 360,265" fill="#0e1217"/>
+<polygon points="378,263 369,268 369,270 378,265" fill="#0b0e11"/>
+<polygon points="369,258 378,263 369,268 360,263" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.34s" repeatCount="indefinite"/>
+<polygon points="378,263 387,268 387,270 378,265" fill="#0e1217"/>
+<polygon points="396,263 387,268 387,270 396,265" fill="#0b0e11"/>
+<polygon points="387,258 396,263 387,268 378,263" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.62s" repeatCount="indefinite"/>
+<polygon points="396,263 405,268 405,270 396,265" fill="#0e1217"/>
+<polygon points="414,263 405,268 405,270 414,265" fill="#0b0e11"/>
+<polygon points="405,258 414,263 405,268 396,263" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.88s" repeatCount="indefinite"/>
+<polygon points="414,263 423,268 423,270 414,265" fill="#0e1217"/>
+<polygon points="432,263 423,268 423,270 432,265" fill="#0b0e11"/>
+<polygon points="423,258 432,263 423,268 414,263" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.16s" repeatCount="indefinite"/>
+<polygon points="432,263 441,268 441,270 432,265" fill="#0e1217"/>
+<polygon points="450,263 441,268 441,270 450,265" fill="#0b0e11"/>
+<polygon points="441,258 450,263 441,268 432,263" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.43s" repeatCount="indefinite"/>
+<polygon points="450,263 459,268 459,270 450,265" fill="#0e1217"/>
+<polygon points="468,263 459,268 459,270 468,265" fill="#0b0e11"/>
+<polygon points="459,258 468,263 459,268 450,263" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.39s" repeatCount="indefinite"/>
+<polygon points="369,268 378,273 378,275 369,270" fill="#0e1217"/>
+<polygon points="387,268 378,273 378,275 387,270" fill="#0b0e11"/>
+<polygon points="378,263 387,268 378,273 369,268" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.66s" repeatCount="indefinite"/>
+<polygon points="387,268 396,273 396,275 387,270" fill="#0e1217"/>
+<polygon points="405,268 396,273 396,275 405,270" fill="#0b0e11"/>
+<polygon points="396,263 405,268 396,273 387,268" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.93s" repeatCount="indefinite"/>
+<polygon points="405,268 414,273 414,275 405,270" fill="#0e1217"/>
+<polygon points="423,268 414,273 414,275 423,270" fill="#0b0e11"/>
+<polygon points="414,263 423,268 414,273 405,268" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.20s" repeatCount="indefinite"/>
+<polygon points="423,268 432,273 432,275 423,270" fill="#0e1217"/>
+<polygon points="441,268 432,273 432,275 441,270" fill="#0b0e11"/>
+<polygon points="432,263 441,268 432,273 423,268" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.47s" repeatCount="indefinite"/>
+<polygon points="441,268 450,273 450,275 441,270" fill="#0e1217"/>
+<polygon points="459,268 450,273 450,275 459,270" fill="#0b0e11"/>
+<polygon points="450,263 459,268 450,273 441,268" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.71s" repeatCount="indefinite"/>
+<polygon points="378,273 387,278 387,280 378,275" fill="#0e1217"/>
+<polygon points="396,273 387,278 387,280 396,275" fill="#0b0e11"/>
+<polygon points="387,268 396,273 387,278 378,273" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.97s" repeatCount="indefinite"/>
+<polygon points="396,273 405,278 405,280 396,275" fill="#0e1217"/>
+<polygon points="414,273 405,278 405,280 414,275" fill="#0b0e11"/>
+<polygon points="405,268 414,273 405,278 396,273" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.25s" repeatCount="indefinite"/>
+<polygon points="414,273 423,278 423,280 414,275" fill="#0e1217"/>
+<polygon points="432,273 423,278 423,280 432,275" fill="#0b0e11"/>
+<polygon points="423,268 432,273 423,278 414,273" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.52s" repeatCount="indefinite"/>
+<polygon points="432,273 441,278 441,280 432,275" fill="#0e1217"/>
+<polygon points="450,273 441,278 441,280 450,275" fill="#0b0e11"/>
+<polygon points="441,268 450,273 441,278 432,273" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.02s" repeatCount="indefinite"/>
+<polygon points="387,278 396,283 396,285 387,280" fill="#0e1217"/>
+<polygon points="405,278 396,283 396,285 405,280" fill="#0b0e11"/>
+<polygon points="396,273 405,278 396,283 387,278" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.29s" repeatCount="indefinite"/>
+<polygon points="405,278 414,283 414,285 405,280" fill="#0e1217"/>
+<polygon points="423,278 414,283 414,285 423,280" fill="#0b0e11"/>
+<polygon points="414,273 423,278 414,283 405,278" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.56s" repeatCount="indefinite"/>
+<polygon points="423,278 432,283 432,285 423,280" fill="#0e1217"/>
+<polygon points="441,278 432,283 432,285 441,280" fill="#0b0e11"/>
+<polygon points="432,273 441,278 432,283 423,278" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.34s" repeatCount="indefinite"/>
+<polygon points="396,283 405,288 405,290 396,285" fill="#0e1217"/>
+<polygon points="414,283 405,288 405,290 414,285" fill="#0b0e11"/>
+<polygon points="405,278 414,283 405,288 396,283" fill="#161B22"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.61s" repeatCount="indefinite"/>
+<polygon points="414,247 423,252 423,290 414,285" fill="#3b70ad"/>
+<polygon points="432,247 423,252 423,290 432,285" fill="#2d5684"/>
+<polygon points="423,242 432,247 423,252 414,247" fill="#58A6FF"/>
+</g>
+</svg>

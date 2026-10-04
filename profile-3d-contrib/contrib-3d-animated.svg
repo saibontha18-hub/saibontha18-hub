@@ -6,20 +6,20 @@
 </defs>
 <rect x="-80" y="-103" width="574" height="445" rx="14" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
 <ellipse cx="207.0" cy="302.0" rx="261.0" ry="15" fill="#000000" opacity="0.45" filter="url(#soft)"/>
-<text x="-54" y="-61" font-size="12" fill="#8B949E" font-family="Ubuntu,Helvetica,Arial,sans-serif">88 contributions in the last year</text>
-<text x="0" y="-50" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Sep</text>
-<text x="9" y="-45" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
-<text x="45" y="-25" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Nov</text>
-<text x="90" y="0" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Dec</text>
-<text x="126" y="20" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jan</text>
-<text x="162" y="40" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Feb</text>
-<text x="198" y="60" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Mar</text>
-<text x="243" y="85" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Apr</text>
-<text x="279" y="105" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">May</text>
-<text x="324" y="130" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jun</text>
-<text x="360" y="150" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jul</text>
-<text x="396" y="170" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Aug</text>
-<text x="441" y="195" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Sep</text>
+<text x="-54" y="-61" font-size="12" fill="#8B949E" font-family="Ubuntu,Helvetica,Arial,sans-serif">95 contributions in the last year</text>
+<text x="0" y="-50" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
+<text x="36" y="-30" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Nov</text>
+<text x="81" y="-5" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Dec</text>
+<text x="117" y="15" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jan</text>
+<text x="153" y="35" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Feb</text>
+<text x="189" y="55" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Mar</text>
+<text x="234" y="80" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Apr</text>
+<text x="270" y="100" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">May</text>
+<text x="315" y="125" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jun</text>
+<text x="351" y="145" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jul</text>
+<text x="387" y="165" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Aug</text>
+<text x="432" y="190" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Sep</text>
+<text x="468" y="210" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.00s" repeatCount="indefinite"/>
 <polygon points="-9,-2 0,3 0,5 -9,0" fill="#0e1217"/>
@@ -2116,9 +2116,9 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.38s" repeatCount="indefinite"/>
-<polygon points="459,258 468,263 468,265 459,260" fill="#0e1217"/>
-<polygon points="477,258 468,263 468,265 477,260" fill="#0b0e11"/>
-<polygon points="468,253 477,258 468,263 459,258" fill="#161B22"/>
+<polygon points="459,240 468,245 468,265 459,260" fill="#003e85"/>
+<polygon points="477,240 468,245 468,265 477,260" fill="#002f66"/>
+<polygon points="468,235 477,240 468,245 459,240" fill="#005CC5"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.07s" repeatCount="indefinite"/>
@@ -2151,12 +2151,6 @@
 <polygon points="441,258 450,263 441,268 432,263" fill="#161B22"/>
 </g>
 <g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.43s" repeatCount="indefinite"/>
-<polygon points="450,263 459,268 459,270 450,265" fill="#0e1217"/>
-<polygon points="468,263 459,268 459,270 468,265" fill="#0b0e11"/>
-<polygon points="459,258 468,263 459,268 450,263" fill="#161B22"/>
-</g>
-<g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.39s" repeatCount="indefinite"/>
 <polygon points="369,268 378,273 378,275 369,270" fill="#0e1217"/>
 <polygon points="387,268 378,273 378,275 387,270" fill="#0b0e11"/>
@@ -2181,12 +2175,6 @@
 <polygon points="432,263 441,268 432,273 423,268" fill="#161B22"/>
 </g>
 <g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.47s" repeatCount="indefinite"/>
-<polygon points="441,268 450,273 450,275 441,270" fill="#0e1217"/>
-<polygon points="459,268 450,273 450,275 459,270" fill="#0b0e11"/>
-<polygon points="450,263 459,268 450,273 441,268" fill="#161B22"/>
-</g>
-<g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.71s" repeatCount="indefinite"/>
 <polygon points="378,273 387,278 387,280 378,275" fill="#0e1217"/>
 <polygon points="396,273 387,278 387,280 396,275" fill="#0b0e11"/>
@@ -2205,12 +2193,6 @@
 <polygon points="423,268 432,273 423,278 414,273" fill="#161B22"/>
 </g>
 <g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.52s" repeatCount="indefinite"/>
-<polygon points="432,273 441,278 441,280 432,275" fill="#0e1217"/>
-<polygon points="450,273 441,278 441,280 450,275" fill="#0b0e11"/>
-<polygon points="441,268 450,273 441,278 432,273" fill="#161B22"/>
-</g>
-<g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.02s" repeatCount="indefinite"/>
 <polygon points="387,278 396,283 396,285 387,280" fill="#0e1217"/>
 <polygon points="405,278 396,283 396,285 405,280" fill="#0b0e11"/>
@@ -2218,32 +2200,14 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.29s" repeatCount="indefinite"/>
-<polygon points="405,278 414,283 414,285 405,280" fill="#0e1217"/>
-<polygon points="423,278 414,283 414,285 423,280" fill="#0b0e11"/>
-<polygon points="414,273 423,278 414,283 405,278" fill="#161B22"/>
-</g>
-<g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.56s" repeatCount="indefinite"/>
-<polygon points="423,278 432,283 432,285 423,280" fill="#0e1217"/>
-<polygon points="441,278 432,283 432,285 441,280" fill="#0b0e11"/>
-<polygon points="432,273 441,278 432,283 423,278" fill="#161B22"/>
+<polygon points="405,242 414,247 414,285 405,280" fill="#3b70ad"/>
+<polygon points="423,242 414,247 414,285 423,280" fill="#2d5684"/>
+<polygon points="414,237 423,242 414,247 405,242" fill="#58A6FF"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.34s" repeatCount="indefinite"/>
-<polygon points="396,283 405,288 405,290 396,285" fill="#0e1217"/>
-<polygon points="414,283 405,288 405,290 414,285" fill="#0b0e11"/>
-<polygon points="405,278 414,283 405,288 396,283" fill="#161B22"/>
-</g>
-<g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.61s" repeatCount="indefinite"/>
-<polygon points="414,247 423,252 423,290 414,285" fill="#3b70ad"/>
-<polygon points="432,247 423,252 423,290 432,285" fill="#2d5684"/>
-<polygon points="423,242 432,247 423,252 414,247" fill="#58A6FF"/>
-</g>
-<g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.65s" repeatCount="indefinite"/>
-<polygon points="405,252 414,257 414,295 405,290" fill="#3b70ad"/>
-<polygon points="423,252 414,257 414,295 423,290" fill="#2d5684"/>
-<polygon points="414,247 423,252 414,257 405,252" fill="#58A6FF"/>
+<polygon points="396,247 405,252 405,290 396,285" fill="#3b70ad"/>
+<polygon points="414,247 405,252 405,290 414,285" fill="#2d5684"/>
+<polygon points="405,242 414,247 405,252 396,247" fill="#58A6FF"/>
 </g>
 </svg>

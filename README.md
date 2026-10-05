@@ -83,6 +83,9 @@ that behave the same on day 1000 as they do on day 1.
   <a href="https://github.com/saibontha18-hub/modbus-rtu-slave">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saibontha18-hub&repo=modbus-rtu-slave&theme=dark&title_color=58A6FF&bg_color=0D1117" alt="modbus-rtu-slave" />
   </a>
+  <a href="https://github.com/saibontha18-hub/json-stream">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saibontha18-hub&repo=json-stream&theme=dark&title_color=58A6FF&bg_color=0D1117" alt="json-stream" />
+  </a>
 </p>
 
 <br>

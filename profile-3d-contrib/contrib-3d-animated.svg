@@ -6,7 +6,7 @@
 </defs>
 <rect x="-80" y="-103" width="574" height="445" rx="14" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
 <ellipse cx="207.0" cy="302.0" rx="261.0" ry="15" fill="#000000" opacity="0.45" filter="url(#soft)"/>
-<text x="-54" y="-61" font-size="12" fill="#8B949E" font-family="Ubuntu,Helvetica,Arial,sans-serif">133 contributions in the last year</text>
+<text x="-54" y="-61" font-size="12" fill="#8B949E" font-family="Ubuntu,Helvetica,Arial,sans-serif">149 contributions in the last year</text>
 <text x="0" y="-50" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
 <text x="36" y="-30" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Nov</text>
 <text x="81" y="-5" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Dec</text>
@@ -2221,6 +2221,12 @@
 <polygon points="405,242 414,247 414,285 405,280" fill="#3b70ad"/>
 <polygon points="423,242 414,247 414,285 423,280" fill="#2d5684"/>
 <polygon points="414,237 423,242 414,247 405,242" fill="#58A6FF"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.56s" repeatCount="indefinite"/>
+<polygon points="423,278 432,283 432,285 423,280" fill="#0e1217"/>
+<polygon points="441,278 432,283 432,285 441,280" fill="#0b0e11"/>
+<polygon points="432,273 441,278 432,283 423,278" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.34s" repeatCount="indefinite"/>

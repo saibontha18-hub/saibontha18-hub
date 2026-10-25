@@ -8,18 +8,18 @@
 <ellipse cx="207.0" cy="302.0" rx="261.0" ry="15" fill="#000000" opacity="0.45" filter="url(#soft)"/>
 <text x="-54" y="-61" font-size="12" fill="#8B949E" font-family="Ubuntu,Helvetica,Arial,sans-serif">200 contributions in the last year</text>
 <text x="0" y="-50" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
-<text x="18" y="-40" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Nov</text>
-<text x="63" y="-15" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Dec</text>
-<text x="99" y="5" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jan</text>
-<text x="135" y="25" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Feb</text>
-<text x="171" y="45" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Mar</text>
-<text x="216" y="70" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Apr</text>
-<text x="252" y="90" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">May</text>
-<text x="297" y="115" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jun</text>
-<text x="333" y="135" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jul</text>
-<text x="369" y="155" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Aug</text>
-<text x="414" y="180" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Sep</text>
-<text x="450" y="200" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
+<text x="9" y="-45" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Nov</text>
+<text x="54" y="-20" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Dec</text>
+<text x="90" y="0" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jan</text>
+<text x="126" y="20" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Feb</text>
+<text x="162" y="40" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Mar</text>
+<text x="207" y="65" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Apr</text>
+<text x="243" y="85" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">May</text>
+<text x="288" y="110" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jun</text>
+<text x="324" y="130" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Jul</text>
+<text x="360" y="150" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Aug</text>
+<text x="405" y="175" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Sep</text>
+<text x="441" y="195" font-size="10" fill="#8B949E" text-anchor="middle" font-family="Ubuntu,Helvetica,Arial,sans-serif">Oct</text>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="0.00s" repeatCount="indefinite"/>
 <polygon points="-9,-2 0,3 0,5 -9,0" fill="#0e1217"/>
@@ -1990,9 +1990,9 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.43s" repeatCount="indefinite"/>
-<polygon points="432,243 441,248 441,250 432,245" fill="#0e1217"/>
-<polygon points="450,243 441,248 441,250 450,245" fill="#0b0e11"/>
-<polygon points="441,238 450,243 441,248 432,243" fill="#161B22"/>
+<polygon points="432,207 441,212 441,250 432,245" fill="#3b70ad"/>
+<polygon points="450,207 441,212 441,250 450,245" fill="#2d5684"/>
+<polygon points="441,202 450,207 441,212 432,207" fill="#58A6FF"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.13s" repeatCount="indefinite"/>
@@ -2026,9 +2026,9 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.48s" repeatCount="indefinite"/>
-<polygon points="423,248 432,253 432,255 423,250" fill="#0e1217"/>
-<polygon points="441,248 432,253 432,255 441,250" fill="#0b0e11"/>
-<polygon points="432,243 441,248 432,253 423,248" fill="#161B22"/>
+<polygon points="423,221 432,226 432,255 423,250" fill="#1f57a7"/>
+<polygon points="441,221 432,226 432,255 441,250" fill="#184380"/>
+<polygon points="432,216 441,221 432,226 423,221" fill="#2F81F7"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.75s" repeatCount="indefinite"/>
@@ -2062,21 +2062,21 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.52s" repeatCount="indefinite"/>
-<polygon points="414,253 423,258 423,260 414,255" fill="#0e1217"/>
-<polygon points="432,253 423,258 423,260 432,255" fill="#0b0e11"/>
-<polygon points="423,248 432,253 423,258 414,253" fill="#161B22"/>
+<polygon points="414,226 423,231 423,260 414,255" fill="#1f57a7"/>
+<polygon points="432,226 423,231 423,260 432,255" fill="#184380"/>
+<polygon points="423,221 432,226 423,231 414,226" fill="#2F81F7"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.79s" repeatCount="indefinite"/>
-<polygon points="432,226 441,231 441,260 432,255" fill="#1f57a7"/>
-<polygon points="450,226 441,231 441,260 450,255" fill="#184380"/>
-<polygon points="441,221 450,226 441,231 432,226" fill="#2F81F7"/>
+<polygon points="432,217 441,222 441,260 432,255" fill="#3b70ad"/>
+<polygon points="450,217 441,222 441,260 450,255" fill="#2d5684"/>
+<polygon points="441,212 450,217 441,222 432,217" fill="#58A6FF"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.06s" repeatCount="indefinite"/>
-<polygon points="450,217 459,222 459,260 450,255" fill="#3b70ad"/>
-<polygon points="468,217 459,222 459,260 468,255" fill="#2d5684"/>
-<polygon points="459,212 468,217 459,222 450,217" fill="#58A6FF"/>
+<polygon points="450,253 459,258 459,260 450,255" fill="#0e1217"/>
+<polygon points="468,253 459,258 459,260 468,255" fill="#0b0e11"/>
+<polygon points="459,248 468,253 459,258 450,253" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="14.76s" repeatCount="indefinite"/>
@@ -2098,21 +2098,21 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.57s" repeatCount="indefinite"/>
-<polygon points="405,258 414,263 414,265 405,260" fill="#0e1217"/>
-<polygon points="423,258 414,263 414,265 423,260" fill="#0b0e11"/>
-<polygon points="414,253 423,258 414,263 405,258" fill="#161B22"/>
+<polygon points="405,222 414,227 414,265 405,260" fill="#3b70ad"/>
+<polygon points="423,222 414,227 414,265 423,260" fill="#2d5684"/>
+<polygon points="414,217 423,222 414,227 405,222" fill="#58A6FF"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.84s" repeatCount="indefinite"/>
-<polygon points="423,231 432,236 432,265 423,260" fill="#1f57a7"/>
-<polygon points="441,231 432,236 432,265 441,260" fill="#184380"/>
-<polygon points="432,226 441,231 432,236 423,231" fill="#2F81F7"/>
+<polygon points="423,258 432,263 432,265 423,260" fill="#0e1217"/>
+<polygon points="441,258 432,263 432,265 441,260" fill="#0b0e11"/>
+<polygon points="432,253 441,258 432,263 423,258" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.11s" repeatCount="indefinite"/>
-<polygon points="441,222 450,227 450,265 441,260" fill="#3b70ad"/>
-<polygon points="459,222 450,227 450,265 459,260" fill="#2d5684"/>
-<polygon points="450,217 459,222 450,227 441,222" fill="#58A6FF"/>
+<polygon points="441,258 450,263 450,265 441,260" fill="#0e1217"/>
+<polygon points="459,258 450,263 450,265 459,260" fill="#0b0e11"/>
+<polygon points="450,253 459,258 450,263 441,258" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.38s" repeatCount="indefinite"/>
@@ -2128,21 +2128,21 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.34s" repeatCount="indefinite"/>
-<polygon points="378,263 387,268 387,270 378,265" fill="#0e1217"/>
-<polygon points="396,263 387,268 387,270 396,265" fill="#0b0e11"/>
-<polygon points="387,258 396,263 387,268 378,263" fill="#161B22"/>
+<polygon points="378,227 387,232 387,270 378,265" fill="#3b70ad"/>
+<polygon points="396,227 387,232 387,270 396,265" fill="#2d5684"/>
+<polygon points="387,222 396,227 387,232 378,227" fill="#58A6FF"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.62s" repeatCount="indefinite"/>
-<polygon points="396,263 405,268 405,270 396,265" fill="#0e1217"/>
-<polygon points="414,263 405,268 405,270 414,265" fill="#0b0e11"/>
-<polygon points="405,258 414,263 405,268 396,263" fill="#161B22"/>
+<polygon points="396,254 405,259 405,270 396,265" fill="#092039"/>
+<polygon points="414,254 405,259 405,270 414,265" fill="#07182c"/>
+<polygon points="405,249 414,254 405,259 396,254" fill="#0E3055"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.88s" repeatCount="indefinite"/>
-<polygon points="414,227 423,232 423,270 414,265" fill="#3b70ad"/>
-<polygon points="432,227 423,232 423,270 432,265" fill="#2d5684"/>
-<polygon points="423,222 432,227 423,232 414,227" fill="#58A6FF"/>
+<polygon points="414,263 423,268 423,270 414,265" fill="#0e1217"/>
+<polygon points="432,263 423,268 423,270 432,265" fill="#0b0e11"/>
+<polygon points="423,258 432,263 423,268 414,263" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.16s" repeatCount="indefinite"/>
@@ -2151,16 +2151,10 @@
 <polygon points="441,258 450,263 441,268 432,263" fill="#161B22"/>
 </g>
 <g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.43s" repeatCount="indefinite"/>
-<polygon points="450,263 459,268 459,270 450,265" fill="#0e1217"/>
-<polygon points="468,263 459,268 459,270 468,265" fill="#0b0e11"/>
-<polygon points="459,258 468,263 459,268 450,263" fill="#161B22"/>
-</g>
-<g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.39s" repeatCount="indefinite"/>
-<polygon points="369,268 378,273 378,275 369,270" fill="#0e1217"/>
-<polygon points="387,268 378,273 378,275 387,270" fill="#0b0e11"/>
-<polygon points="378,263 387,268 378,273 369,268" fill="#161B22"/>
+<polygon points="369,241 378,246 378,275 369,270" fill="#1f57a7"/>
+<polygon points="387,241 378,246 378,275 387,270" fill="#184380"/>
+<polygon points="378,236 387,241 378,246 369,241" fill="#2F81F7"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.66s" repeatCount="indefinite"/>
@@ -2170,21 +2164,15 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.93s" repeatCount="indefinite"/>
-<polygon points="405,259 414,264 414,275 405,270" fill="#092039"/>
-<polygon points="423,259 414,264 414,275 423,270" fill="#07182c"/>
-<polygon points="414,254 423,259 414,264 405,259" fill="#0E3055"/>
+<polygon points="405,268 414,273 414,275 405,270" fill="#0e1217"/>
+<polygon points="423,268 414,273 414,275 423,270" fill="#0b0e11"/>
+<polygon points="414,263 423,268 414,273 405,268" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.20s" repeatCount="indefinite"/>
 <polygon points="423,268 432,273 432,275 423,270" fill="#0e1217"/>
 <polygon points="441,268 432,273 432,275 441,270" fill="#0b0e11"/>
 <polygon points="432,263 441,268 432,273 423,268" fill="#161B22"/>
-</g>
-<g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.47s" repeatCount="indefinite"/>
-<polygon points="441,268 450,273 450,275 441,270" fill="#0e1217"/>
-<polygon points="459,268 450,273 450,275 459,270" fill="#0b0e11"/>
-<polygon points="450,263 459,268 450,273 441,268" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.71s" repeatCount="indefinite"/>
@@ -2194,9 +2182,9 @@
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.97s" repeatCount="indefinite"/>
-<polygon points="396,237 405,242 405,280 396,275" fill="#3b70ad"/>
-<polygon points="414,237 405,242 405,280 414,275" fill="#2d5684"/>
-<polygon points="405,232 414,237 405,242 396,237" fill="#58A6FF"/>
+<polygon points="396,273 405,278 405,280 396,275" fill="#0e1217"/>
+<polygon points="414,273 405,278 405,280 414,275" fill="#0b0e11"/>
+<polygon points="405,268 414,273 405,278 396,273" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.25s" repeatCount="indefinite"/>
@@ -2205,16 +2193,10 @@
 <polygon points="423,268 432,273 423,278 414,273" fill="#161B22"/>
 </g>
 <g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.52s" repeatCount="indefinite"/>
-<polygon points="432,273 441,278 441,280 432,275" fill="#0e1217"/>
-<polygon points="450,273 441,278 441,280 450,275" fill="#0b0e11"/>
-<polygon points="441,268 450,273 441,278 432,273" fill="#161B22"/>
-</g>
-<g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.02s" repeatCount="indefinite"/>
-<polygon points="387,251 396,256 396,285 387,280" fill="#1f57a7"/>
-<polygon points="405,251 396,256 396,285 405,280" fill="#184380"/>
-<polygon points="396,246 405,251 396,256 387,251" fill="#2F81F7"/>
+<polygon points="387,278 396,283 396,285 387,280" fill="#0e1217"/>
+<polygon points="405,278 396,283 396,285 405,280" fill="#0b0e11"/>
+<polygon points="396,273 405,278 396,283 387,278" fill="#161B22"/>
 </g>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.29s" repeatCount="indefinite"/>
@@ -2223,27 +2205,9 @@
 <polygon points="414,273 423,278 414,283 405,278" fill="#161B22"/>
 </g>
 <g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.56s" repeatCount="indefinite"/>
-<polygon points="423,278 432,283 432,285 423,280" fill="#0e1217"/>
-<polygon points="441,278 432,283 432,285 441,280" fill="#0b0e11"/>
-<polygon points="432,273 441,278 432,283 423,278" fill="#161B22"/>
-</g>
-<g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.34s" repeatCount="indefinite"/>
 <polygon points="396,283 405,288 405,290 396,285" fill="#0e1217"/>
 <polygon points="414,283 405,288 405,290 414,285" fill="#0b0e11"/>
 <polygon points="405,278 414,283 405,288 396,283" fill="#161B22"/>
-</g>
-<g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.61s" repeatCount="indefinite"/>
-<polygon points="414,283 423,288 423,290 414,285" fill="#0e1217"/>
-<polygon points="432,283 423,288 423,290 432,285" fill="#0b0e11"/>
-<polygon points="423,278 432,283 423,288 414,283" fill="#161B22"/>
-</g>
-<g>
-<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.65s" repeatCount="indefinite"/>
-<polygon points="405,288 414,293 414,295 405,290" fill="#0e1217"/>
-<polygon points="423,288 414,293 414,295 423,290" fill="#0b0e11"/>
-<polygon points="414,283 423,288 414,293 405,288" fill="#161B22"/>
 </g>
 </svg>

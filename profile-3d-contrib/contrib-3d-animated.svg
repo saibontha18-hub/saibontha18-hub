@@ -2151,6 +2151,12 @@
 <polygon points="441,258 450,263 441,268 432,263" fill="#161B22"/>
 </g>
 <g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="16.43s" repeatCount="indefinite"/>
+<polygon points="450,263 459,268 459,270 450,265" fill="#0e1217"/>
+<polygon points="468,263 459,268 459,270 468,265" fill="#0b0e11"/>
+<polygon points="459,258 468,263 459,268 450,263" fill="#161B22"/>
+</g>
+<g>
 <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" keyTimes="0; 0.5; 1" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" dur="3.6s" begin="15.39s" repeatCount="indefinite"/>
 <polygon points="369,241 378,246 378,275 369,270" fill="#1f57a7"/>
 <polygon points="387,241 378,246 378,275 387,270" fill="#184380"/>
